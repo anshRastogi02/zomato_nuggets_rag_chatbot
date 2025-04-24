@@ -1,0 +1,225 @@
+Dish: Kadhi
+Description: Kadhi is a popular North Indian dish, featuring a tangy and spiced yogurt based curry. It often includes besan [gram flour] for thickness and is seasoned with mustard seeds, curry leaves, and various spices. Vegetables or pakoras [deep fried fritters] are sometimes added, enhancing the dish flavor and texture.
+Price: ₹0
+Price Range: ₹119 - ₹229
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/1ed/9b39657abf7a1229597f4233544f21ed.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Main Course
+Category: 
+Rating: None (None)
+Tags: veg, spicy, meal, vegan, main-course, medium-spicy, services, sf-spicy, jain, reusable-confidence-score-2, delivery-enabled, sf-vegan
+Dietary Preferences: veg
+
+Restaurant: Shiv Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Shiv Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Shiv Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/shiv-dhaba-1-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Plain Rice
+Description: Plain rice is a simple and versatile staple, featuring fluffy, cooked grains. With a neutral taste, it complements various dishes, acting as a blank canvas for flavors. Whether served as a side or a base for sauces, its subtle texture and mild essence make it a fundamental component in diverse culinary traditions worldwide.
+Price: ₹0
+Price Range: ₹50 - ₹119
+Available: available
+Image URLs: N/A
+Menu: Rice And Biryani
+Category: Rice
+Rating: 4.73999977 (5 votes)
+Tags: veg, vegan, main-course, services, jain, delivery-enabled, rating_4, sf-vegan
+Dietary Preferences: veg
+
+Restaurant: Shiv Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Shiv Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Shiv Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/shiv-dhaba-1-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Jeera Rice
+Description: Jeera rice is a fragrant Indian dish made by cooking basmati rice with cumin seeds [jeera] and other aromatic spices. The result is a flavorful and slightly nutty rice dish that pairs well with a variety of Indian curries and gravies.
+Price: ₹0
+Price Range: ₹60 - ₹129
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/d6b/750dca273c13c0ba162a702dbf5cdd6b.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Rice And Biryani
+Category: Rice
+Rating: 3.5 (12 votes)
+Tags: veg, vegan, main-course, services, jain, delivery-enabled, sf-vegan
+Dietary Preferences: veg
+
+Restaurant: Shiv Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Shiv Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Shiv Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/shiv-dhaba-1-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Tawa Roti
+Description: Crispy and flaky, Tawa roti is a flatbread cooked on a griddle. It is perfect to accompany any meal and can be
+Price: ₹15
+Price Range: ₹15 - ₹15
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/0fb/064880be011536410064045df6db70fb.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Breads
+Category: 
+Rating: 3.6400001 (30 votes)
+Tags: veg, vegan, main-course, packaged, non-refundable, services, jain, delivery-enabled, sf-vegan
+Dietary Preferences: veg
+
+Restaurant: Shiv Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Shiv Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Shiv Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/shiv-dhaba-1-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Plain Paratha
+Description: A plain paratha is a unleavened Indian flatbread made from whole wheat flour, water and salt. It is rolled cut into a thin disc, cooked on a hot griddle with ghee or oil until golden brown, resulting in a flaky, layered texture. This versatile bread complements various dishes and can be enjoyed on its own or with accompaniments like yogurt, pickles or chutney.
+Price: ₹25
+Price Range: ₹25 - ₹25
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/a7b/da6649e1c1c8eb1e705eb41c96d16a7b.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Breads
+Category: 
+Rating: 3.91000009 (11 votes)
+Tags: veg, vegan, main-course, packaged, non-refundable, services, jain, sf-not-vegan, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Shiv Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Shiv Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Shiv Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/shiv-dhaba-1-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: 5 Poori
+Description: Five fluffy poori, perfectly paired with a tangy chutney. An ideal snack to enjoy with your loved ones.
+Price: ₹39
+Price Range: ₹39 - ₹39
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/9f8/498c428213ba4245b13c3d371be1f9f8.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Breads
+Category: 
+Rating: 4.82000017 (12 votes)
+Tags: veg, vegan, main-course, services, jain, delivery-enabled, rating_4, sf-vegan
+Dietary Preferences: veg
+
+Restaurant: Shiv Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Shiv Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Shiv Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/shiv-dhaba-1-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Aloo Paratha
+Description: Aloo paratha is a popular Indian flatbread stuffed with spiced mashed potato. The dough is typically made from wheat flour and rolled out, then filled with a mixture of mashed potatoes seasoned with spices like cumin, coriander and garam masala. The stuffed dough is then rolled flat and cooked on a griddle with ghee or oil until golden brown. Aloo paratha is often served with yogurt, pickles and chutney.
+Price: ₹49
+Price Range: ₹49 - ₹49
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/737/5d3b97e9e9489e2bf9f6b9e2573cc737.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Breads
+Category: 
+Rating: 4.01000023 (97 votes)
+Tags: veg, services, sf-spicy, sf-not-vegan, delivery-enabled, bestseller, rating_4
+Dietary Preferences: veg
+
+Restaurant: Shiv Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Shiv Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Shiv Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/shiv-dhaba-1-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Pyaaz Paratha
+Description: Pyaaz paratha is a popular Indian flatbread that features a flavorful stuffing of finely chopped onions mixed with various spices. The dough, typically made from whole wheat flour, is rolled out, filled with the seasoned onion mixture and then cooked on a griddle with ghee or oil until golden brown. The result is a delicious and aromatic dish, perfect for breakfast or as a side dish, showcasing the sweet and savory taste of caramelized onions within a soft and flaky paratha.
+Price: ₹49
+Price Range: ₹49 - ₹49
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/d17/68420914378d80df5bd1aa760d0ead17.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Breads
+Category: 
+Rating: 3.74000001 (46 votes)
+Tags: veg, spicy, services, sf-not-vegan, delivery-enabled, sf-spicy
+Dietary Preferences: veg
+
+Restaurant: Shiv Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Shiv Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Shiv Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/shiv-dhaba-1-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Tea
+Description: Made with milk, tea leaves and sugar boiled to perfect aromatic colour and give you a perfect refreshing feeling.
+Price: ₹25
+Price Range: ₹25 - ₹25
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/29b/9d1b2dc402387d1f90e472af14cba29b.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Accompaniments
+Category: 
+Rating: 4.01999998 (28 votes)
+Tags: veg, services, sf-not-vegan, kb-12, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Shiv Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Shiv Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Shiv Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/shiv-dhaba-1-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+

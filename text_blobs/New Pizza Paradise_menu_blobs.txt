@@ -1,0 +1,675 @@
+Dish: Veg Deluxe Pizza
+Description: Onion, capsicum, paneer and mushroom.
+Price: ₹0
+Price Range: ₹340 - ₹1008
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: Special Pizza
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, sf-not-vegan, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Black and White Pizza
+Description: Corn, black olives and jalapeno.
+Price: ₹0
+Price Range: ₹340 - ₹650
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: Special Pizza
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Spicy Paneer Pizza
+Description: Paneer, capsicum, red paprika in spicy sauce.
+Price: ₹0
+Price Range: ₹340 - ₹650
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: Special Pizza
+Rating: None (None)
+Tags: veg, spicy, services, sf-spicy, sf-not-vegan, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Spicy Garlic Pizza
+Description: Coriander capsicum in chilli garlic sauce.
+Price: ₹0
+Price Range: ₹340 - ₹650
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: Special Pizza
+Rating: None (None)
+Tags: veg, spicy, services, sf-spicy, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Mixed Veg Pizza
+Description: Onion, capsicum, tomato and mushroom in makhani sauce.
+Price: ₹0
+Price Range: ₹400 - ₹800
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: Special Pizza
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veg Supreme Pizza
+Description: Onion, capsicum, coriander and mushroom in tandoori sauce.
+Price: ₹0
+Price Range: ₹400 - ₹800
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: Special Pizza
+Rating: None (None)
+Tags: veg, spicy, services, sf-kid-friendly, delivery-enabled, sf-spicy
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Margherita Pizza
+Description: 
+Price: ₹0
+Price Range: ₹180 - ₹560
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/134/78da1eb8a272370c069b011527e82134.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: Pizza
+Rating: 4.30000019 (10 votes)
+Tags: veg, services, sf-kid-friendly, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Double Cheese Margherita Pizza
+Description: 
+Price: ₹0
+Price Range: ₹230 - ₹630
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/1f3/9a129a8418433b4acd761945bff191f3.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: Pizza
+Rating: 2.02999997 (8 votes)
+Tags: veg, services, sf-kid-friendly, sf-not-vegan, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Cheese and Corn Pizza
+Description: 
+Price: ₹0
+Price Range: ₹230 - ₹630
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/4c7/746d280556039b3afae8be4df97a84c7.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: Pizza
+Rating: 4.28999996 (7 votes)
+Tags: veg, services, sf-kid-friendly, sf-not-vegan, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Cheese and Mushroom Pizza
+Description: 
+Price: ₹0
+Price Range: ₹230 - ₹630
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/673/4a90f30c787099ee229f4222d54e4673.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: Pizza
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, sf-not-vegan, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Cheese Onion and Capsicum Pizza
+Description: 
+Price: ₹0
+Price Range: ₹230 - ₹630
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/717/294abc01d785482728db1b5fa0f45717.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: Pizza
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, sf-not-vegan, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Farm Fresh Pizza
+Description: Onion, capsicum, tomato, mushroom, corn and paneer.
+Price: ₹0
+Price Range: ₹270 - ₹830
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/381/c1034e52859fdab433aa029fc6e37381.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: Pizza
+Rating: 3.56999993 (22 votes)
+Tags: veg, services, sf-kid-friendly, sf-not-vegan, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Tandoori Paneer Pizza
+Description: Onion, capsicum and paneer in tandoori sauce.
+Price: ₹0
+Price Range: ₹270 - ₹830
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/22f/afd4364c6d7fbb441be00d4d53d9f22f.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: Pizza
+Rating: 3.97000003 (6 votes)
+Tags: veg, services, sf-kid-friendly, sf-not-vegan, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Makhani Paneer Pizza
+Description: Onion, capsicum and paneer in makhani sauce.
+Price: ₹0
+Price Range: ₹270 - ₹1000
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/13e/23b0f253c46f8d2f3520d59ffa70c13e.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: Pizza
+Rating: 4.0999999 (17 votes)
+Tags: veg, services, sf-kid-friendly, sf-not-vegan, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Fully Loaded Pizza
+Description: Onion, capsicum, tomato and mushroom.
+Price: ₹0
+Price Range: ₹280 - ₹840
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/c63/a6385a22ee60676c921d0cac8055fc63.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: Pizza
+Rating: 3.8499999 (8 votes)
+Tags: veg, services, sf-kid-friendly, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Garlic Pizza Bite Stick [10 inches]
+Description: 
+Price: ₹798
+Price Range: ₹798 - ₹798
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: Pizza
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, delivery-enabled, dt-sides
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Mini Soya Pizza
+Description: 
+Price: ₹0
+Price Range: ₹120 - ₹290
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: Veg Pizza Mania
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Fresh Onion Pizza
+Description: 
+Price: ₹0
+Price Range: ₹140 - ₹310
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: Veg Pizza Mania
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Sweet Corn Pizza
+Description: 
+Price: ₹0
+Price Range: ₹140 - ₹310
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/030/35b58536b81919a04199f3fb5fac8030.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: Veg Pizza Mania
+Rating: 4.19000006 (48 votes)
+Tags: veg, services, sf-kid-friendly, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Fresh Capsicum Pizza
+Description: 
+Price: ₹0
+Price Range: ₹150 - ₹320
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: Veg Pizza Mania
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Tomato Pizza
+Description: 
+Price: ₹0
+Price Range: ₹150 - ₹320
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/1fc/d8fddd9fded236507e26814c8b81c1fc.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: Veg Pizza Mania
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Fresh Paneer Pizza
+Description: 
+Price: ₹0
+Price Range: ₹180 - ₹350
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/a0b/800e74edf046b36178b730d596b5ea0b.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: Veg Pizza Mania
+Rating: 4.32000017 (39 votes)
+Tags: veg, services, sf-kid-friendly, sf-not-vegan, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer and Onion Pizza
+Description: 
+Price: ₹0
+Price Range: ₹160 - ₹330
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/bf8/372e5c7c624575d9cc176b5ca3743bf8.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: Veg Pizza Mania
+Rating: 4.19999981 (244 votes)
+Tags: veg, services, sf-kid-friendly, sf-not-vegan, delivery-enabled, bestseller, rating_4
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Onion and Corn Pizza
+Description: 
+Price: ₹0
+Price Range: ₹160 - ₹330
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/440/b8920f915ab1d3a8db7415d123e23440.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: Veg Pizza Mania
+Rating: 4.3499999 (35 votes)
+Tags: veg, services, sf-kid-friendly, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Soya and Corn Pizza
+Description: 
+Price: ₹0
+Price Range: ₹160 - ₹330
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: Veg Pizza Mania
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Onion and Capsicum Pizza
+Description: 
+Price: ₹0
+Price Range: ₹160 - ₹330
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/1b5/30f47d4598d83de4ef83f9e8a6d001b5.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: Veg Pizza Mania
+Rating: 3.98000002 (20 votes)
+Tags: veg, services, sf-kid-friendly, kb-15, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer and Capsicum Pizza
+Description: 
+Price: ₹0
+Price Range: ₹160 - ₹330
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/614/216c8f158f1c6caa6aa04bbd6c0c2614.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: Veg Pizza Mania
+Rating: 4.30999994 (329 votes)
+Tags: veg, services, sf-kid-friendly, sf-not-vegan, delivery-enabled, bestseller, rating_4
+Dietary Preferences: veg
+
+Restaurant: New Pizza Paradise, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from New Pizza Paradise, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from New Pizza Paradise on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/new-pizza-paradise-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+

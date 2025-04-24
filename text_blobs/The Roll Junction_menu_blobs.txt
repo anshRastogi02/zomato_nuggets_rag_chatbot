@@ -1,0 +1,950 @@
+Dish: Jalfrezi Roll
+Description: Sauteed khatti & meethi veggies in a roll. a Kolkata style kathi roll that's healthy and delicious.
+Price: ₹0
+Price Range: ₹100 - ₹210
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/688/4c70c0cdac426236aef4d57441474688.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Rolls
+Category: Rolls
+Rating: 4.03999996 (68 votes)
+Tags: veg, services, kb-10, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Aloo Roll
+Description: A crispy laccha paratha wrapped with mashed potatoes mixed with our special spices sauces and onion.
+Price: ₹0
+Price Range: ₹100 - ₹210
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/ad0/24e788c05c9466165cd160d3bba96ad0.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Rolls
+Category: Rolls
+Rating: 4.44000006 (211 votes)
+Tags: veg, services, kb-8, delivery-enabled, bestseller, rating_4
+Dietary Preferences: veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Masala Corn Roll
+Description: The masala corn roll is a delicious and savory roll that's sure to satisfy your taste buds.
+Price: ₹0
+Price Range: ₹110 - ₹230
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/d5b/bf6297825757f8e0b41bfed9e40c1d5b.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Rolls
+Category: Rolls
+Rating: 4.30000019 (56 votes)
+Tags: veg, services, kb-11, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer Roll
+Description: Say paneer our signature roll stuffed with classic paneer filling loaded with onion and our special sauce.
+Price: ₹0
+Price Range: ₹145 - ₹265
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/a71/df91c99ebe46ab9a37316d3e6f8a0a71.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Rolls
+Category: Rolls
+Rating: 4.30999994 (195 votes)
+Tags: veg, services, sf-not-vegan, kb-8, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Tandoori Paneer Roll
+Description: The paneer roll is soft cubes of paneer, marinated in a blend of spices and rolled in a flaky laccha paratha.
+Price: ₹0
+Price Range: ₹155 - ₹275
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/fec/b0a57ecf1ec2e99de433410cec563fec.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Rolls
+Category: Rolls
+Rating: 4.17999983 (156 votes)
+Tags: veg, services, sf-not-vegan, kb-9, delivery-enabled, bestseller, rating_4
+Dietary Preferences: veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Samosa Dhamaka Roll
+Description: Filling of samosa with special roll junction mint chutney.
+Price: ₹0
+Price Range: ₹180 - ₹310
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/fef/4c3992d0dfa471327a88711af75d0fef.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Rolls
+Category: Rolls
+Rating: None (None)
+Tags: veg, services, kb-9, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Malai Paneer Roll
+Description: Experience the creamy and delicious flavor of our malai paneer roll, featuring soft cubes of paneer cooked in rich cream based gravy with mild spices, all rolled in a flaky laccha paratha.
+Price: ₹0
+Price Range: ₹170 - ₹290
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/1f6/e0c8781e5ea253faa1e28c2694e2f1f6.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Rolls
+Category: Rolls
+Rating: 4.30999994 (82 votes)
+Tags: veg, services, sf-not-vegan, kb-10, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Achari Paneer Roll
+Description: [Calories: 640 kcal. 190 grams] The classic achari paneer tikka is wrapped in your favourite laccha paratha.
+Price: ₹0
+Price Range: ₹170 - ₹290
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/a71/df91c99ebe46ab9a37316d3e6f8a0a71.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Rolls
+Category: Rolls
+Rating: 4.07999992 (26 votes)
+Tags: veg, services, sf-not-vegan, kb-9, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chilli Paneer Roll
+Description: Desi chatpata chilli paneer, wrapped in our crispy paratha.
+Price: ₹0
+Price Range: ₹150 - ₹270
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/f32/3a1f204146cd9963517c1532cfb5df32.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Rolls
+Category: Rolls
+Rating: 4.23000002 (10 votes)
+Tags: veg, services, sf-not-vegan, kb-9, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Garlic Paneer Roll
+Description: It typically consists of paneer [Indian cottage cheese] cooked with garlic and other spices, wrapped in a soft flatbread or paratha.
+Price: ₹0
+Price Range: ₹150 - ₹270
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/155/17f5b73370ff6cbb8b37d4c373ec9155.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Rolls
+Category: Rolls
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-9, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Special Butter Paneer Roll
+Description: Grated cottage of butter in a small cubes of paneer.
+Price: ₹0
+Price Range: ₹155 - ₹275
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/279/90e087b852e0085c891ba0d1de758279.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Rolls
+Category: Rolls
+Rating: 4.11000013 (22 votes)
+Tags: veg, services, sf-not-vegan, kb-9, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer Korma Roll
+Description: A paneer korma roll combines the richness of paneer cooked in a creamy and flavorful korma sauce, wrapped in a soft flatbread or paratha.
+Price: ₹0
+Price Range: ₹200 - ₹320
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/648/6e37d46a5bfdf961009b3042deaf4648.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Rolls
+Category: Rolls
+Rating: 4.3499999 (14 votes)
+Tags: veg, services, sf-not-vegan, kb-9, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Soya Malai Chaap Roll
+Description: A perfectly crispy paratha loaded with soft, yummy and creamy soya chaap, veggies and our signature sauces.
+Price: ₹0
+Price Range: ₹145 - ₹270
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/1f6/e0c8781e5ea253faa1e28c2694e2f1f6.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Rolls
+Category: Rolls
+Rating: 4.36999989 (70 votes)
+Tags: veg, services, sf-not-vegan, kb-6, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veg Korma Roll
+Description: A veg korma roll is a delightful dish where assorted vegetables are cooked in a rich and creamy korma sauce, then wrapped in a soft flatbread or paratha.
+Price: ₹130
+Price Range: ₹130 - ₹220
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/2cb/125024ac8bbbaacca51ca908fb5572cb.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Rolls
+Category: Rolls
+Rating: 4.78000021 (8 votes)
+Tags: veg, services, kb-9, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Soya Achari Chaap Roll
+Description: Soya chaap folded up in our Kolkata style kathi rolls with an achari twist so yummy.
+Price: ₹0
+Price Range: ₹145 - ₹270
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/2fd/d63917c0cf9fbe4ec4bab1fa1b93e2fd.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Rolls
+Category: Rolls
+Rating: None (None)
+Tags: veg, services, kb-9, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer Shawarma Roll
+Description: Making a paneer shawarma roll involves marinating paneer with shawarma spices, grilling or pan frying it until golden and flavorful, the wrapping it in a soft flatbread or pita along with fresh vegetables and sauce.
+Price: ₹220
+Price Range: ₹220 - ₹310
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/f90/341b082c2df84b44dfee42a1e7068f90.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Rolls
+Category: Rolls
+Rating: 3.81999993 (5 votes)
+Tags: veg, services, sf-not-vegan, kb-9, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Tandoori Chaap Roll
+Description: This classic tandoori chaap roll is wrapped in a favourite laccha paratha.
+Price: ₹0
+Price Range: ₹160 - ₹280
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/fec/b0a57ecf1ec2e99de433410cec563fec.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Rolls
+Category: Rolls
+Rating: 4.05999994 (31 votes)
+Tags: veg, services, kb-8, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Peri Peri Paneer Roll
+Description: A must try for anyone who loves paneer, the peri peri paneer roll is a delicious choice. Featuring peri peri flavour marinated in a special blend of spices, rolled in a classic laccha paratha and topped with sauces, onion and peri peri flavour.
+Price: ₹0
+Price Range: ₹155 - ₹275
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/9a5/7025faa6e370076aa16103118e09d9a5.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Rolls
+Category: Rolls
+Rating: 4.13000011 (13 votes)
+Tags: veg, services, sf-spicy, sf-not-vegan, kb-5, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Achari Chaap Roll
+Description: Soya chaap roll folded up in our Kolkata style with an achari twist so yummy.
+Price: ₹0
+Price Range: ₹145 - ₹265
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/48e/15ae65c6b60a23744f65dedad850a48e.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Rolls
+Category: Rolls
+Rating: None (None)
+Tags: veg, services, kb-9, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Cheesy Oregano Paneer Roll
+Description: cheese+paneer+orgeno+onion+sauses Dekh bhai roll toh cheesy hona chahiye.
+Price: ₹0
+Price Range: ₹155 - ₹275
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/9a5/7025faa6e370076aa16103118e09d9a5.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Rolls
+Category: Rolls
+Rating: 4.11000013 (37 votes)
+Tags: veg, services, sf-not-vegan, kb-10, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Mint Paneer Roll
+Description: Satisfy your cravings with our delightful mint paneer roll, a refreshing and savory snacks. We topped with onion, sauces, masala and some special mint flavour to keep your mouth fresh.
+Price: ₹0
+Price Range: ₹145 - ₹265
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/780/b608fc31a84e1f43ae5aaf1d09e02780.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Rolls
+Category: Rolls
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-9, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Makhani Paneer Roll
+Description: Grated cottage with creamy makhani gravy.
+Price: ₹0
+Price Range: ₹155 - ₹275
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/97d/5cf1d25b24428ea485a641684250697d.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Rolls
+Category: Rolls
+Rating: 4.17999983 (59 votes)
+Tags: veg, services, sf-not-vegan, kb-10, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Kadhai Paneer Roll
+Description: A kadai paneer roll combines the vibrant flavors of kadai paneer, a popular Indian dish, with the convenience of a rolled wrap or roll.
+Price: ₹0
+Price Range: ₹155 - ₹275
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/9c7/080a4486e25faff74cbc4ce6cceaf9c7.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Rolls
+Category: Rolls
+Rating: 4.34000015 (12 votes)
+Tags: veg, services, sf-not-vegan, kb-9, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Double Egg Roll
+Description: Eggstraterrestrial is what youll be left saying because this double egg roll is just out of this word.
+Price: ₹100
+Price Range: ₹100 - ₹190
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/d8f/72290a9493e2740fd9aae0a0cd399d8f.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Non Veg Rolls
+Category: Egg Rolls
+Rating: 4.38000011 (399 votes)
+Tags: egg, services, kb-10, delivery-enabled, bestseller, rating_4
+Dietary Preferences: egg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Double Egg Tandoori Roll
+Description: A double egg tandoori roll is a delicious and filling dish that typically includes tandoori spiced eggs along with other flavorful fillings.
+Price: ₹110
+Price Range: ₹110 - ₹200
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/949/f92f7b3d5b1224113ea56117aa9b2949.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Non Veg Rolls
+Category: Egg Rolls
+Rating: 4.30000019 (59 votes)
+Tags: egg, services, sf-spicy, kb-7, delivery-enabled, rating_4
+Dietary Preferences: egg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Double Egg Peri Peri Roll
+Description: A double egg peri peri roll is a spicy and flavorful dish that combines peri peri spiced eggs with other delicious fillings and wrapped in a soft flatbread.
+Price: ₹115
+Price Range: ₹115 - ₹205
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/092/6294a692775af68e6096500f39d34092.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Non Veg Rolls
+Category: Egg Rolls
+Rating: 4.09000015 (12 votes)
+Tags: egg, services, sf-spicy, kb-9, delivery-enabled, rating_4
+Dietary Preferences: egg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Single Egg Roll
+Description: A typical Kolkata kathi preparation paratha ke andar anda.
+Price: ₹90
+Price Range: ₹90 - ₹180
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/0f6/9446be2face8f2aca671755e041170f6.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Non Veg Rolls
+Category: Egg Rolls
+Rating: 3.99000001 (18 votes)
+Tags: egg, services, kb-8, delivery-enabled
+Dietary Preferences: egg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Double Egg Mint Roll
+Description: A single egg mint roll is a simple yet flavorful dish where a seasoned egg is combined with fresh mint and other fillings, wrapped in a soft flatbread or paratha.
+Price: ₹100
+Price Range: ₹100 - ₹190
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/0f6/9446be2face8f2aca671755e041170f6.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Non Veg Rolls
+Category: Egg Rolls
+Rating: 4.28999996 (12 votes)
+Tags: egg, services, kb-9, delivery-enabled, rating_4
+Dietary Preferences: egg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Double Egg Oregano Roll
+Description: Making a double egg oregano roll involves incorporating eggs seasoned with oregano and other flavorful ingredients into a rolled wrap or roll.
+Price: ₹110
+Price Range: ₹110 - ₹200
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/9df/689a6e9dc2cfb6e51b6b5ec81f5969df.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Non Veg Rolls
+Category: Egg Rolls
+Rating: 4.5999999 (34 votes)
+Tags: egg, services, kb-9, delivery-enabled, rating_4
+Dietary Preferences: egg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Double Egg Malai Roll
+Description: A crispy laccha paratha coated and wrapped creamy egg made with the topping of sauces and onion.
+Price: ₹110
+Price Range: ₹110 - ₹200
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/4d7/4078dcd8da886cce6328218a62d044d7.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Non Veg Rolls
+Category: Egg Rolls
+Rating: 4.28000021 (118 votes)
+Tags: egg, services, kb-12, delivery-enabled, rating_4
+Dietary Preferences: egg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Double Egg Pepper Roll
+Description: Creating a double egg paneer roll involves combining eggs and paneer [Indian cottage cheese] along with other complementary ingredients, wrapped in a soft flatbread or paratha.
+Price: ₹120
+Price Range: ₹120 - ₹210
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/092/6294a692775af68e6096500f39d34092.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Non Veg Rolls
+Category: Egg Rolls
+Rating: None (None)
+Tags: egg, services, kb-9, delivery-enabled
+Dietary Preferences: egg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Mutton Seekh Roll
+Description: Making a mutton seekh roll involves preparing delicious mutton seekh kebabs, wrapping them in a soft flatbread along with fresh vegetables and sauces.
+Price: ₹190
+Price Range: ₹190 - ₹280
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/fa7/5047b8ed7b40c0df92ef556c4fe22fa7.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Non Veg Rolls
+Category: Mutton Rolls
+Rating: None (None)
+Tags: non-veg, services, kb-9, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chicken Malai Boti Roll
+Description: Making a chicken malai boti roll involves marinating chicken in a creamy mixture infused with spices, grilling it to perfection, wrapping it in a soft flatbread along with fresh vegetables and sauce.
+Price: ₹269
+Price Range: ₹269 - ₹269
+Available: available
+Image URLs: N/A
+Menu: Non Veg Rolls
+Category: Special Chicken Rolls
+Rating: None (None)
+Tags: non-veg, services, kb-9, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Roorkee Chicken Seekh Roll
+Description: The roorkee chicken seekh roll is a delicious and popular street food originating from roorkee, India. It typically features spiced chicken seekh kebabs wrapped in a soft flatbread along with fresh vegetables and sauce.
+Price: ₹259
+Price Range: ₹259 - ₹259
+Available: available
+Image URLs: N/A
+Menu: Non Veg Rolls
+Category: Special Chicken Rolls
+Rating: None (None)
+Tags: non-veg, services, sf-spicy, kb-9, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Lucknowi Chicken Seekh Roll
+Description: A Lucknowi chicken seekh roll is a delightful combination of tender chicken seekh kebabs flavored with aromatic spices, wrapped in a soft flatbread along with fresh vegetables and sauce.
+Price: ₹269
+Price Range: ₹269 - ₹269
+Available: available
+Image URLs: N/A
+Menu: Non Veg Rolls
+Category: Special Chicken Rolls
+Rating: None (None)
+Tags: non-veg, services, kb-9, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Hot and Spicy Chicken Seekh Roll
+Description: To create a hot & spicy chicken seekh roll, marinating the chicken seekh kebabs with bold spices and wrapping them in a soft flatbread with complementary ingredients.
+Price: ₹259
+Price Range: ₹259 - ₹259
+Available: available
+Image URLs: N/A
+Menu: Non Veg Rolls
+Category: Special Chicken Rolls
+Rating: None (None)
+Tags: non-veg, services, sf-spicy, kb-9, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chicken Shami Kebab Roll
+Description: Making a chicken shami kebab roll involves preparing flavorful chicken shami kebab, wrapping them in a soft flatbread along with fresh vegetables and sauce.
+Price: ₹259
+Price Range: ₹259 - ₹259
+Available: available
+Image URLs: N/A
+Menu: Non Veg Rolls
+Category: Special Chicken Rolls
+Rating: None (None)
+Tags: non-veg, services, kb-9, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chicken Galouti Kebab Roll
+Description: Creating a chicken galouti kebab roll involves making tender chicken galouti kebabs, which are known for their melt in your mouth texture and rich flavors.
+Price: ₹279
+Price Range: ₹279 - ₹279
+Available: available
+Image URLs: N/A
+Menu: Non Veg Rolls
+Category: Special Chicken Rolls
+Rating: None (None)
+Tags: non-veg, services, kb-9, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: The Roll Junction, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from The Roll Junction, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/the-roll-junction-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+

@@ -1,0 +1,4800 @@
+Dish: Vanilla Shake
+Description: 
+Price: ₹145
+Price Range: ₹145 - ₹145
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/ece/0b718465987e048f4fe2d8a4bc266ece.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Shakes
+Category: 
+Rating: 3.82999992 (9 votes)
+Tags: veg, services, sf-kid-friendly, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chocolate Shake
+Description: 
+Price: ₹170
+Price Range: ₹170 - ₹170
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/cb8/840f72dfb5e89733223881aeed7c8cb8.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Shakes
+Category: 
+Rating: 4.3499999 (28 votes)
+Tags: veg, services, sf-kid-friendly, kb-12, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Butterscotch Shake
+Description: 
+Price: ₹165
+Price Range: ₹165 - ₹165
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/c9f/041a1da8e122794f0e153a89a27bec9f.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Shakes
+Category: 
+Rating: 4 (5 votes)
+Tags: veg, services, sf-kid-friendly, kb-12, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Strawberry Shake
+Description: 
+Price: ₹170
+Price Range: ₹170 - ₹170
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/f46/459d8020082f0142478a0471327f9f46.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Shakes
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Kiwi Shake
+Description: 
+Price: ₹180
+Price Range: ₹180 - ₹180
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/36b/6ba36664416cacac9378ced3c5a6236b.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Shakes
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Oreo Shake
+Description: 
+Price: ₹200
+Price Range: ₹200 - ₹200
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/3ac/7d331a605e11f2fdcbd7137aee17c3ac.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Shakes
+Category: 
+Rating: 3.97000003 (9 votes)
+Tags: veg, services, sf-kid-friendly, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veg Dim Sums (Steamed)
+Description: 
+Price: ₹210
+Price Range: ₹210 - ₹210
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/cd9/bd52b7cfdbe15546aafa0e90023e5cd9.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Dim Sums
+Category: 
+Rating: 4.21000004 (52 votes)
+Tags: veg, services, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer Dim Sums (Steamed)
+Description: 
+Price: ₹270
+Price Range: ₹270 - ₹270
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/ef2/f9ba22e79e7fd57fdeb587bd3804aef2.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Dim Sums
+Category: 
+Rating: 4.42999983 (5 votes)
+Tags: veg, services, sf-not-vegan, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veg Dim Sums (Fried)
+Description: 
+Price: ₹225
+Price Range: ₹225 - ₹225
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/12b/4560ad4ab8f03280961e66b29a8fa12b.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Dim Sums
+Category: 
+Rating: 4.53999996 (7 votes)
+Tags: veg, services, kb-12, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Fried Paneer Dim Sums
+Description: 
+Price: ₹290
+Price Range: ₹290 - ₹290
+Available: available
+Image URLs: N/A
+Menu: Dim Sums
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Makhani Dim sums veg
+Description: 
+Price: ₹325
+Price Range: ₹325 - ₹325
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/0ef/dfe366bcfb0f62abbe3151c233b860ef.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Dim Sums
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Makhani Dim sums Paneer
+Description: 
+Price: ₹360
+Price Range: ₹360 - ₹360
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/0ef/dfe366bcfb0f62abbe3151c233b860ef.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Dim Sums
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Tandoori Dim Sums Veg
+Description: 
+Price: ₹315
+Price Range: ₹315 - ₹315
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/038/880906ddf8f9bd85b1740ee66935a038.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Dim Sums
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Tandoori Dim Sums Paneer
+Description: 
+Price: ₹360
+Price Range: ₹360 - ₹360
+Available: available
+Image URLs: N/A
+Menu: Dim Sums
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Schezwan Dim Sums Veg
+Description: 
+Price: ₹315
+Price Range: ₹315 - ₹315
+Available: available
+Image URLs: N/A
+Menu: Dim Sums
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-spicy, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Schezwan Dim Sums Paneer
+Description: 
+Price: ₹360
+Price Range: ₹360 - ₹360
+Available: available
+Image URLs: N/A
+Menu: Dim Sums
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-spicy, sf-not-vegan, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Sesame Dim Sums Veg
+Description: 
+Price: ₹315
+Price Range: ₹315 - ₹315
+Available: available
+Image URLs: N/A
+Menu: Dim Sums
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Sesame Dim Sums Paneer
+Description: 
+Price: ₹360
+Price Range: ₹360 - ₹360
+Available: available
+Image URLs: N/A
+Menu: Dim Sums
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Hot Garlic Dim Sums Veg
+Description: 
+Price: ₹325
+Price Range: ₹325 - ₹325
+Available: available
+Image URLs: N/A
+Menu: Dim Sums
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Hot Garlic Dim Sums Paneer
+Description: 
+Price: ₹360
+Price Range: ₹360 - ₹360
+Available: available
+Image URLs: N/A
+Menu: Dim Sums
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: 4 Pizza Combo Single Topping
+Description: 
+Price: ₹605
+Price Range: ₹605 - ₹605
+Available: available
+Image URLs: N/A
+Menu: Combo
+Category: 
+Rating: None (None)
+Tags: veg, services, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: 4 Pizza Combo Double Topping
+Description: 
+Price: ₹830
+Price Range: ₹830 - ₹830
+Available: available
+Image URLs: N/A
+Menu: Combo
+Category: 
+Rating: None (None)
+Tags: veg, services, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Noodles Manchurian Bowl
+Description: 
+Price: ₹270
+Price Range: ₹270 - ₹270
+Available: available
+Image URLs: N/A
+Menu: Combo
+Category: 
+Rating: None (None)
+Tags: veg, services, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Onion + Garlic Bread + Noodles
+Description: 
+Price: ₹399
+Price Range: ₹399 - ₹399
+Available: available
+Image URLs: N/A
+Menu: Combo
+Category: 
+Rating: None (None)
+Tags: veg, services, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chinese Platter
+Description: 
+Price: ₹399
+Price Range: ₹399 - ₹399
+Available: available
+Image URLs: N/A
+Menu: Combo
+Category: 
+Rating: None (None)
+Tags: veg, services, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: White Pasta
+Description: 
+Price: ₹290
+Price Range: ₹290 - ₹290
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/5b4/43d72d3cf0ed02a1b2b23c149de425b4.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pasta
+Category: 
+Rating: 4.05000019 (86 votes)
+Tags: veg, services, kb-10, delivery-enabled, bestseller, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Red Pasta
+Description: 
+Price: ₹290
+Price Range: ₹290 - ₹290
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/afe/54499a14cd2684cf6baed7b454880afe.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pasta
+Category: 
+Rating: 4.38999987 (21 votes)
+Tags: veg, services, kb-8, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Jumbo Pasta
+Description: 
+Price: ₹325
+Price Range: ₹325 - ₹325
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/7a9/57d1457990aabee8f167fad8ea4c07a9.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pasta
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-9, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Makhani Pasta
+Description: 
+Price: ₹325
+Price Range: ₹325 - ₹325
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/ce5/059095e29f178fb89c5c08315e21bce5.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pasta
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-11, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Tandoori Pasta
+Description: 
+Price: ₹325
+Price Range: ₹325 - ₹325
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/1da/70adeed373c4bede1dc2f4d3c2dcb1da.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pasta
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-11, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Soya Pizza
+Description: 
+Price: ₹90
+Price Range: ₹90 - ₹90
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/868/cb9623437dae440c8296a62248830868.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: 4.28000021 (75 votes)
+Tags: veg, services, sf-kid-friendly, kb-14, delivery-enabled, bestseller, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Onion Pizza
+Description: 
+Price: ₹165
+Price Range: ₹165 - ₹165
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: 4.69000006 (13 votes)
+Tags: veg, services, sf-kid-friendly, kb-13, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Capsicum Pizza
+Description: 
+Price: ₹180
+Price Range: ₹180 - ₹180
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: 3.69000006 (8 votes)
+Tags: veg, services, sf-kid-friendly, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Corn Pizza
+Description: 
+Price: ₹180
+Price Range: ₹180 - ₹180
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: 4.01999998 (31 votes)
+Tags: veg, services, sf-kid-friendly, kb-14, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Tomato Pizza
+Description: 
+Price: ₹170
+Price Range: ₹170 - ₹170
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Onion & Jalapeno Pizza
+Description: 
+Price: ₹210
+Price Range: ₹210 - ₹210
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Onion & Capsicum Pizza
+Description: 
+Price: ₹210
+Price Range: ₹210 - ₹210
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: 4.51000023 (14 votes)
+Tags: veg, services, sf-kid-friendly, kb-13, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Soya & Corn Pizza
+Description: 
+Price: ₹210
+Price Range: ₹210 - ₹210
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer & Capsicum Pizza
+Description: 
+Price: ₹235
+Price Range: ₹235 - ₹235
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: 4.19000006 (71 votes)
+Tags: veg, services, sf-kid-friendly, sf-not-vegan, kb-14, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer & Onion Pizza
+Description: 
+Price: ₹235
+Price Range: ₹235 - ₹235
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: 4.07999992 (40 votes)
+Tags: veg, services, sf-kid-friendly, sf-not-vegan, kb-11, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Jalapeno & Pineapple Pizza
+Description: 
+Price: ₹235
+Price Range: ₹235 - ₹235
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Corn & Capsicum Pizza
+Description: 
+Price: ₹235
+Price Range: ₹235 - ₹235
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: 4.01999998 (9 votes)
+Tags: veg, services, sf-kid-friendly, kb-13, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Vegetable Chopsuey
+Description: 
+Price: ₹325
+Price Range: ₹325 - ₹325
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/57f/f84e2fcd0f659613d2f4eb92de18957f.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Vegetables
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-15, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Mix Vegetables In Hot Garlic Sauce
+Description: 
+Price: ₹345
+Price Range: ₹345 - ₹345
+Available: available
+Image URLs: N/A
+Menu: Vegetables
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Vegetables Sweet & Sour
+Description: 
+Price: ₹345
+Price Range: ₹345 - ₹345
+Available: available
+Image URLs: N/A
+Menu: Vegetables
+Category: 
+Rating: None (None)
+Tags: veg, services, reusable-confidence-score-1, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Vegetables Hong Kong
+Description: 
+Price: ₹345
+Price Range: ₹345 - ₹345
+Available: available
+Image URLs: N/A
+Menu: Vegetables
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Lemon Paneer
+Description: 
+Price: ₹360
+Price Range: ₹360 - ₹360
+Available: available
+Image URLs: N/A
+Menu: Vegetables
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer In Hot Garlic Sauce
+Description: 
+Price: ₹360
+Price Range: ₹360 - ₹360
+Available: available
+Image URLs: N/A
+Menu: Vegetables
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Vegetables In Szechwan Sauce
+Description: 
+Price: ₹400
+Price Range: ₹400 - ₹400
+Available: available
+Image URLs: N/A
+Menu: Vegetables
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Vegetables Manchow
+Description: 
+Price: ₹170
+Price Range: ₹170 - ₹170
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/1f6/cafa381c154542ac8ad42676df8551f6.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Soup
+Category: 
+Rating: 4.09000015 (6 votes)
+Tags: veg, services, reusable-confidence-score-3, kb-14, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Vegetables Lung Fung
+Description: 
+Price: ₹145
+Price Range: ₹145 - ₹145
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/9ae/6b772ec1f3f8dedafc15e42ddf3209ae.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Soup
+Category: 
+Rating: None (None)
+Tags: veg, services, reusable-confidence-score-3, kb-14, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veg Lemon Coriander
+Description: 
+Price: ₹145
+Price Range: ₹145 - ₹145
+Available: available
+Image URLs: N/A
+Menu: Soup
+Category: 
+Rating: None (None)
+Tags: veg, services, reusable-confidence-score-3, kb-14, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veg. Clear Soup
+Description: 
+Price: ₹165
+Price Range: ₹165 - ₹165
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/a61/36e13ac25c22b7ac9b8ee79daa775a61.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Soup
+Category: 
+Rating: None (None)
+Tags: veg, services, reusable-confidence-score-3, kb-14, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veg. Hot & Sour
+Description: 
+Price: ₹165
+Price Range: ₹165 - ₹165
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/5dc/370e4400d4508057f4a6c103fe5265dc.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Soup
+Category: 
+Rating: None (None)
+Tags: veg, services, reusable-confidence-score-3, kb-14, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veg. Talumien
+Description: 
+Price: ₹165
+Price Range: ₹165 - ₹165
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/705/dd258534002ac45b948dbf46556ea705.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Soup
+Category: 
+Rating: None (None)
+Tags: veg, services, reusable-confidence-score-3, kb-14, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veg. Sweet Corn
+Description: 
+Price: ₹165
+Price Range: ₹165 - ₹165
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/5e9/4245a38765cbd921244c693231a965e9.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Soup
+Category: 
+Rating: None (None)
+Tags: veg, services, reusable-confidence-score-1, kb-14, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veg. Clear Noodles Soup
+Description: 
+Price: ₹165
+Price Range: ₹165 - ₹165
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/a61/36e13ac25c22b7ac9b8ee79daa775a61.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Soup
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-14, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veg. Thupka
+Description: 
+Price: ₹215
+Price Range: ₹215 - ₹215
+Available: available
+Image URLs: N/A
+Menu: Soup
+Category: 
+Rating: 4.78999996 (7 votes)
+Tags: veg, services, reusable-confidence-score-3, kb-14, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Vegetables Fried Rice
+Description: 
+Price: ₹270
+Price Range: ₹270 - ₹270
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/31b/980b2be9246b7709cd7ef5bedcb5f31b.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Fried Rice
+Category: 
+Rating: 4.32000017 (6 votes)
+Tags: veg, services, reusable-confidence-score-3, kb-10, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Burn Garlic Fried Rice
+Description: 
+Price: ₹290
+Price Range: ₹290 - ₹290
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/756/31537204d53986b7c8bc925abce6c756.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Fried Rice
+Category: 
+Rating: None (None)
+Tags: veg, services, reusable-confidence-score-3, kb-10, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Corn Fried Rice
+Description: 
+Price: ₹290
+Price Range: ₹290 - ₹290
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/d3f/9490944adc9fef0af7bab5cc32c58d3f.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Fried Rice
+Category: 
+Rating: None (None)
+Tags: veg, services, reusable-confidence-score-3, kb-10, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Szechwan Fried Rice
+Description: 
+Price: ₹290
+Price Range: ₹290 - ₹290
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/f24/65e998daa2dcd9e414e2f261abe1ff24.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Fried Rice
+Category: 
+Rating: None (None)
+Tags: veg, services, reusable-confidence-score-3, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Mushroom Fried Rice
+Description: 
+Price: ₹300
+Price Range: ₹300 - ₹300
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/815/37d3c6597080c1b9b3356cf4045c9815.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Fried Rice
+Category: 
+Rating: None (None)
+Tags: veg, services, reusable-confidence-score-3, kb-10, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Singapore Fried Rice
+Description: 
+Price: ₹290
+Price Range: ₹290 - ₹290
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/f71/8b48b9b5acb4310ccf9e0c7764705f71.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Fried Rice
+Category: 
+Rating: None (None)
+Tags: veg, services, reusable-confidence-score-3, kb-10, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Noodles Combo Veg
+Description: 
+Price: ₹305
+Price Range: ₹305 - ₹305
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/387/5598e9ce88aa73a865d3f864307fa387.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Noodles
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-15, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Noodles Combo Paneer
+Description: 
+Price: ₹360
+Price Range: ₹360 - ₹360
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/387/5598e9ce88aa73a865d3f864307fa387.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Noodles
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Rice Combo Veg
+Description: 
+Price: ₹290
+Price Range: ₹290 - ₹290
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/387/5598e9ce88aa73a865d3f864307fa387.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Noodles
+Category: 
+Rating: None (None)
+Tags: veg, services, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Rice Combo Paneer
+Description: 
+Price: ₹345
+Price Range: ₹345 - ₹345
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/387/5598e9ce88aa73a865d3f864307fa387.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Noodles
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-14, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Rice Noodles Combo Veg
+Description: 
+Price: ₹325
+Price Range: ₹325 - ₹325
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/387/5598e9ce88aa73a865d3f864307fa387.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Noodles
+Category: 
+Rating: None (None)
+Tags: veg, services, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Rice Noodles Combo Paneer
+Description: 
+Price: ₹360
+Price Range: ₹360 - ₹360
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/387/5598e9ce88aa73a865d3f864307fa387.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Noodles
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Vegetables Chowmein
+Description: 
+Price: ₹235
+Price Range: ₹235 - ₹235
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/926/0f7a16cdbe3cc15780c40f0d7b41e926.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Noodles
+Category: 
+Rating: 4.40999985 (15 votes)
+Tags: veg, services, kb-9, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veg Hakka Noodles
+Description: 
+Price: ₹290
+Price Range: ₹290 - ₹290
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/b2a/10ff603c4bb9418783f8d6c709204b2a.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Noodles
+Category: 
+Rating: 4.55999994 (16 votes)
+Tags: veg, services, kb-10, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Garlic Noodles
+Description: 
+Price: ₹290
+Price Range: ₹290 - ₹290
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/9d0/e172bce4f561acd128a967ccc752a9d0.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Noodles
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chilli Garlic Noodles
+Description: 
+Price: ₹305
+Price Range: ₹305 - ₹305
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/bcc/307d916ae7c5bf0944db251a76bf1bcc.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Noodles
+Category: 
+Rating: 4.73000002 (12 votes)
+Tags: veg, services, kb-12, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Schezwan Noodles
+Description: 
+Price: ₹260
+Price Range: ₹260 - ₹260
+Available: available
+Image URLs: N/A
+Menu: Noodles
+Category: 
+Rating: 4.46999979 (6 votes)
+Tags: veg, services, sf-spicy, kb-12, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Singapore Noodles
+Description: 
+Price: ₹290
+Price Range: ₹290 - ₹290
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/a94/957d9fbb05c3aa5fff4121805f79da94.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Noodles
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Rice Noodles Combination
+Description: 
+Price: ₹270
+Price Range: ₹270 - ₹270
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/387/5598e9ce88aa73a865d3f864307fa387.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Noodles
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Hangries Crispy Chap (6 Pieces)
+Description: 
+Price: ₹290
+Price Range: ₹290 - ₹290
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/8cd/2d944d4d38924dd201a3e133ce9588cd.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Chaap
+Category: 
+Rating: None (None)
+Tags: veg, services, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chap Chilli Dry
+Description: 
+Price: ₹290
+Price Range: ₹290 - ₹290
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/601/800ca9c93c36981c6fdf048e0757d601.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Chaap
+Category: 
+Rating: None (None)
+Tags: veg, services, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Champ Chilli Gravy
+Description: 
+Price: ₹270
+Price Range: ₹270 - ₹270
+Available: available
+Image URLs: N/A
+Menu: Chaap
+Category: 
+Rating: None (None)
+Tags: veg, services, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chaap Manchurian Dry
+Description: 
+Price: ₹315
+Price Range: ₹315 - ₹315
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/892/6dabd1a4f2c5512c5d60deb256984892.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Chaap
+Category: 
+Rating: None (None)
+Tags: veg, services, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chap Manchurian Gravy
+Description: 
+Price: ₹300
+Price Range: ₹300 - ₹300
+Available: available
+Image URLs: N/A
+Menu: Chaap
+Category: 
+Rating: None (None)
+Tags: veg, services, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Sesame Chaap
+Description: 
+Price: ₹290
+Price Range: ₹290 - ₹290
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/956/36099f7a4ce2e2d01394f74e456fc956.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Chaap
+Category: 
+Rating: None (None)
+Tags: veg, services, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Honey Chilli Chaap
+Description: 
+Price: ₹325
+Price Range: ₹325 - ₹325
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/b6b/89138f253c038f14189a2bc91bffeb6b.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Chaap
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chilli Potato
+Description: 
+Price: ₹305
+Price Range: ₹305 - ₹305
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/25d/377aacb78bf8555fe69e3ed3a520025d.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Snacks
+Category: 
+Rating: 3.17000008 (5 votes)
+Tags: veg, services, kb-10, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Crispy Baby Corn
+Description: 
+Price: ₹325
+Price Range: ₹325 - ₹325
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/a6e/ebb91d2a922c098706cd9faeb4aeda6e.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Snacks
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-15, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Vegetable Salt & Pepper
+Description: 
+Price: ₹270
+Price Range: ₹270 - ₹270
+Available: available
+Image URLs: N/A
+Menu: Snacks
+Category: 
+Rating: None (None)
+Tags: veg, services, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Crispy Corn Salt Paper
+Description: 
+Price: ₹270
+Price Range: ₹270 - ₹270
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/cff/a01a29758658bf6c92e7c1714346acff.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Snacks
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-15, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Crispy Vegetables
+Description: 
+Price: ₹270
+Price Range: ₹270 - ₹270
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/7b0/a432af84c2a823b3c033126ee3e667b0.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Snacks
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Vegetables Spring Roll
+Description: 
+Price: ₹235
+Price Range: ₹235 - ₹235
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/a28/ea4226e94b38605dcfb6f143e5a47a28.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Snacks
+Category: 
+Rating: 4.30999994 (14 votes)
+Tags: veg, services, kb-11, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chana Chilli
+Description: 
+Price: ₹305
+Price Range: ₹305 - ₹305
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/3d1/7f9905b4cd4c7908044f9f57ab7e93d1.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Snacks
+Category: 
+Rating: None (None)
+Tags: veg, services, reusable-confidence-score-3, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Honey Chilli Cauliflower
+Description: 
+Price: ₹335
+Price Range: ₹335 - ₹335
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/524/44a2c1f6cce5391ed1624d319f97d524.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Snacks
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-10, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Honey Chilli Potato
+Description: 
+Price: ₹335
+Price Range: ₹335 - ₹335
+Available: available
+Image URLs: N/A
+Menu: Snacks
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-10, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Vegetables Manchurian Dry
+Description: 
+Price: ₹360
+Price Range: ₹360 - ₹360
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/106/bcacf6befbec09dbb6a247fcb7ca7106.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Snacks
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-15, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Vegetables Manchurian Gravy
+Description: 
+Price: ₹350
+Price Range: ₹350 - ₹350
+Available: available
+Image URLs: N/A
+Menu: Snacks
+Category: 
+Rating: 4.36999989 (5 votes)
+Tags: veg, services, kb-15, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chilli Paneer Dry
+Description: 
+Price: ₹400
+Price Range: ₹400 - ₹400
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/635/e81dc9ac09d55ed16a7fd0b309e72635.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Snacks
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-10, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chilli Paneer Gravy
+Description: 
+Price: ₹380
+Price Range: ₹380 - ₹380
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/635/e81dc9ac09d55ed16a7fd0b309e72635.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Snacks
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer Manchurian Dry
+Description: 
+Price: ₹380
+Price Range: ₹380 - ₹380
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/fb2/9d57b198b6e4eaf8112d0136a20bdfb2.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Snacks
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-15, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer Manchurian Gravy
+Description: 
+Price: ₹360
+Price Range: ₹360 - ₹360
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/fb2/9d57b198b6e4eaf8112d0136a20bdfb2.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Snacks
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-15, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Sesame Paneer
+Description: 
+Price: ₹360
+Price Range: ₹360 - ₹360
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/8ae/f6ab1948dfe02a25ae61eb5d9d5168ae.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Snacks
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Cheese Balls (6 Pieces)
+Description: 
+Price: ₹380
+Price Range: ₹380 - ₹380
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/b23/f4f01c473491d2b196eab3ffa90a4b23.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Snacks
+Category: 
+Rating: 4.73999977 (8 votes)
+Tags: veg, services, sf-not-vegan, reusable-confidence-score-1, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer 65
+Description: 
+Price: ₹380
+Price Range: ₹380 - ₹380
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/b88/4924709d1e8eb216509bec9e0c445b88.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Snacks
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer Pepper
+Description: 
+Price: ₹380
+Price Range: ₹380 - ₹380
+Available: available
+Image URLs: N/A
+Menu: Snacks
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer Finger
+Description: 
+Price: ₹360
+Price Range: ₹360 - ₹360
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/645/0f948a7e3f939b93be421c0dacf5f645.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Snacks
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, reusable-confidence-score-3, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chilli Mushroom Dry
+Description: 
+Price: ₹345
+Price Range: ₹345 - ₹345
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/790/72029a67d234ee0608c646b7f82f4790.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Snacks
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-10, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chilli Mushroom Gravy
+Description: 
+Price: ₹325
+Price Range: ₹325 - ₹325
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/790/72029a67d234ee0608c646b7f82f4790.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Snacks
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-10, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Mushroom Duplex
+Description: 
+Price: ₹325
+Price Range: ₹325 - ₹325
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/b57/0f1bc11fa586d431193ee8e188eeab57.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Snacks
+Category: 
+Rating: 3.75999999 (6 votes)
+Tags: veg, services, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Virgin Mojito
+Description: 
+Price: ₹155
+Price Range: ₹155 - ₹155
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/4db/86766fbac034c867b4b950ec3c3254db.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Drinks
+Category: 
+Rating: 4.63999987 (11 votes)
+Tags: veg, services, kb-12, delivery-enabled, dt-beverages, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Fruit Beer
+Description: 
+Price: ₹90
+Price Range: ₹90 - ₹90
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/72c/bc36cd4db524decf5ba7a6c1afac372c.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Drinks
+Category: 
+Rating: 4.42999983 (7 votes)
+Tags: veg, services, kb-12, delivery-enabled, dt-beverages, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Fresh Lime
+Description: 
+Price: ₹90
+Price Range: ₹90 - ₹90
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/b4a/a39b9c38a5f304c442b7eeab5f21cb4a.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Drinks
+Category: 
+Rating: 4.44999981 (11 votes)
+Tags: veg, services, kb-9, delivery-enabled, dt-beverages, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Cold Coffee
+Description: 
+Price: ₹190
+Price Range: ₹190 - ₹190
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/473/a13ecd879bbdc70d23e39c43031d4473.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Drinks
+Category: 
+Rating: 4.21000004 (16 votes)
+Tags: veg, services, kb-9, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veggie Burger
+Description: 
+Price: ₹120
+Price Range: ₹120 - ₹120
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/3f0/440833d81f2fe5afe982d5230a9183f0.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Burger
+Category: 
+Rating: 4.55000019 (32 votes)
+Tags: veg, services, kb-14, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Cheesy Burger
+Description: 
+Price: ₹155
+Price Range: ₹155 - ₹155
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/5f4/029adb90945d8041cb647d94ace955f4.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Burger
+Category: 
+Rating: 4.23000002 (64 votes)
+Tags: veg, services, sf-not-vegan, kb-12, delivery-enabled, bestseller, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Cheesy Spicy Burger
+Description: 
+Price: ₹155
+Price Range: ₹155 - ₹155
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/ced/83af5ad9ba4088e711780a1ce769cced.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Burger
+Category: 
+Rating: 4.42999983 (38 votes)
+Tags: veg, services, sf-spicy, sf-not-vegan, kb-10, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer Tikka Burger
+Description: 
+Price: ₹225
+Price Range: ₹225 - ₹225
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/738/15b32c249e1134616a4e4a9530cda738.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Burger
+Category: 
+Rating: 4.26000023 (8 votes)
+Tags: veg, services, sf-not-vegan, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Maharaja Burger
+Description: 
+Price: ₹225
+Price Range: ₹225 - ₹225
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/d0f/317ccadf6add127beed57f167bc98d0f.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Burger
+Category: 
+Rating: 4.46999979 (15 votes)
+Tags: veg, services, kb-11, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Aloo Tikki Burger
+Description: 
+Price: ₹100
+Price Range: ₹100 - ₹100
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/d8e/8315c0a9167202a703085bc651641d8e.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Burger
+Category: 
+Rating: 4.40999985 (129 votes)
+Tags: veg, services, kb-11, delivery-enabled, bestseller, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Regular Mix Veg. Pizza
+Description: 
+Price: ₹405
+Price Range: ₹405 - ₹975
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/315/800b8657794037d7b9430e66c367c315.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 2
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Medium Mix Veg. Pizza
+Description: 
+Price: ₹740
+Price Range: ₹740 - ₹1625
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/315/800b8657794037d7b9430e66c367c315.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 2
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Large Mix Veg. Pizza
+Description: 
+Price: ₹1135
+Price Range: ₹1135 - ₹2145
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/315/800b8657794037d7b9430e66c367c315.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 2
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Regular Veg. Paradise Pizza
+Description: 
+Price: ₹405
+Price Range: ₹405 - ₹975
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/aca/8ddd217efa1530cab931d57e62322aca.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 2
+Category: 
+Rating: 4.25 (11 votes)
+Tags: veg, services, kb-13, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Medium Veg. Paradise Pizza
+Description: 
+Price: ₹740
+Price Range: ₹740 - ₹1625
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/aca/8ddd217efa1530cab931d57e62322aca.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 2
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Large Veg. Paradise Pizza
+Description: 
+Price: ₹1135
+Price Range: ₹1135 - ₹2145
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/aca/8ddd217efa1530cab931d57e62322aca.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 2
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Regular Veg. Deluxe Pizza
+Description: 
+Price: ₹380
+Price Range: ₹380 - ₹950
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/77a/8e9d4f33e344e6b0d299cd896ca7f77a.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 6
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Medium Veg. Deluxe Pizza
+Description: 
+Price: ₹740
+Price Range: ₹740 - ₹1625
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/77a/8e9d4f33e344e6b0d299cd896ca7f77a.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 6
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Large Veg. Deluxe Pizza
+Description: 
+Price: ₹1010
+Price Range: ₹1010 - ₹2020
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/77a/8e9d4f33e344e6b0d299cd896ca7f77a.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 6
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Regular Triple Tango Twist Pizza
+Description: 
+Price: ₹380
+Price Range: ₹380 - ₹950
+Available: available
+Image URLs: N/A
+Menu: Simple Veg 6
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Medium Triple Tango Twist Pizza
+Description: 
+Price: ₹740
+Price Range: ₹740 - ₹1625
+Available: available
+Image URLs: N/A
+Menu: Simple Veg 6
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Large Triple Tango Twist Pizza
+Description: 
+Price: ₹1010
+Price Range: ₹1010 - ₹2020
+Available: available
+Image URLs: N/A
+Menu: Simple Veg 6
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Regular Gourmet Pizza
+Description: 
+Price: ₹380
+Price Range: ₹380 - ₹950
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/e12/f51b249a5a50fc4a9f57ac3d15bb6e12.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 6
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Medium Gourmet Pizza
+Description: 
+Price: ₹740
+Price Range: ₹740 - ₹1625
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/e12/f51b249a5a50fc4a9f57ac3d15bb6e12.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 6
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Large Gourmet Pizza
+Description: 
+Price: ₹1010
+Price Range: ₹1010 - ₹2020
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/e12/f51b249a5a50fc4a9f57ac3d15bb6e12.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 6
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Regular Chilli Pizza
+Description: 
+Price: ₹380
+Price Range: ₹380 - ₹950
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/282/cda11fbe1bcc1bf8cd70772e351b5282.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 6
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Medium Chilli Pizza
+Description: 
+Price: ₹740
+Price Range: ₹740 - ₹1625
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/282/cda11fbe1bcc1bf8cd70772e351b5282.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 6
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Large Chilli Pizza
+Description: 
+Price: ₹1010
+Price Range: ₹1010 - ₹2020
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/282/cda11fbe1bcc1bf8cd70772e351b5282.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 6
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Regular Veg. Mexicana Pizza
+Description: 
+Price: ₹380
+Price Range: ₹380 - ₹950
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/0a1/c7ca5fd3f9b8cb2aafd6cdd7e63b90a1.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 6
+Category: 
+Rating: 4.0999999 (14 votes)
+Tags: veg, services, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Medium Veg. Mexicana Pizza
+Description: 
+Price: ₹740
+Price Range: ₹740 - ₹1625
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/0a1/c7ca5fd3f9b8cb2aafd6cdd7e63b90a1.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 6
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Large Veg. Mexicana Pizza
+Description: 
+Price: ₹1010
+Price Range: ₹1010 - ₹2020
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/0a1/c7ca5fd3f9b8cb2aafd6cdd7e63b90a1.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 6
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Regular Achaari Pizza
+Description: 
+Price: ₹380
+Price Range: ₹380 - ₹950
+Available: available
+Image URLs: N/A
+Menu: Taste Of India
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Medium Achaari Pizza
+Description: 
+Price: ₹720
+Price Range: ₹720 - ₹1605
+Available: available
+Image URLs: N/A
+Menu: Taste Of India
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Large Achaari Pizza
+Description: 
+Price: ₹990
+Price Range: ₹990 - ₹2000
+Available: available
+Image URLs: N/A
+Menu: Taste Of India
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Regular Spicy Achari Pizza
+Description: 
+Price: ₹380
+Price Range: ₹380 - ₹950
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/4eb/9067e0a22424afb218bad8ac49cfc4eb.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Taste Of India
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-spicy, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Medium Spicy Achari Pizza
+Description: 
+Price: ₹720
+Price Range: ₹720 - ₹1605
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/4eb/9067e0a22424afb218bad8ac49cfc4eb.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Taste Of India
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-spicy, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Large Spicy Achari Pizza
+Description: 
+Price: ₹990
+Price Range: ₹990 - ₹2000
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/4eb/9067e0a22424afb218bad8ac49cfc4eb.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Taste Of India
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-spicy, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Regular Tandoori Paneer Pizza
+Description: 
+Price: ₹380
+Price Range: ₹380 - ₹950
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/b37/63febf69dff1e32372302ece3c08bb37.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Taste Of India
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Medium Tandoori Paneer Pizza
+Description: 
+Price: ₹720
+Price Range: ₹720 - ₹1605
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/b37/63febf69dff1e32372302ece3c08bb37.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Taste Of India
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Large Tandoori Paneer Pizza
+Description: 
+Price: ₹990
+Price Range: ₹990 - ₹2000
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/b37/63febf69dff1e32372302ece3c08bb37.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Taste Of India
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Regular Paneer Makhani Pizza
+Description: 
+Price: ₹380
+Price Range: ₹380 - ₹950
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/e10/8eb67245b0cbd9ff472ea46c1ae73e10.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Taste Of India
+Category: 
+Rating: 3.96000004 (25 votes)
+Tags: veg, services, sf-not-vegan, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Medium Paneer Makhani Pizza
+Description: 
+Price: ₹720
+Price Range: ₹720 - ₹1605
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/e10/8eb67245b0cbd9ff472ea46c1ae73e10.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Taste Of India
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Large Paneer Makhani Pizza
+Description: 
+Price: ₹990
+Price Range: ₹990 - ₹2000
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/e10/8eb67245b0cbd9ff472ea46c1ae73e10.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Taste Of India
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Regular Fresh Pizza
+Description: 
+Price: ₹345
+Price Range: ₹345 - ₹915
+Available: available
+Image URLs: N/A
+Menu: Simple Veg 3
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Medium Fresh Pizza
+Description: 
+Price: ₹630
+Price Range: ₹630 - ₹1515
+Available: available
+Image URLs: N/A
+Menu: Simple Veg 3
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Large Fresh Pizza
+Description: 
+Price: ₹885
+Price Range: ₹885 - ₹1895
+Available: available
+Image URLs: N/A
+Menu: Simple Veg 3
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Regular Farm Fresh
+Description: 
+Price: ₹345
+Price Range: ₹345 - ₹915
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/811/7c1811e117fa64a54e44e28035426811.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 3
+Category: 
+Rating: 4.01999998 (27 votes)
+Tags: veg, services, kb-13, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Medium Farm Fresh
+Description: 
+Price: ₹630
+Price Range: ₹630 - ₹1515
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/811/7c1811e117fa64a54e44e28035426811.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 3
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Large Farm Fresh
+Description: 
+Price: ₹885
+Price Range: ₹885 - ₹1895
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/811/7c1811e117fa64a54e44e28035426811.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 3
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Regular Delight Pizza
+Description: 
+Price: ₹345
+Price Range: ₹345 - ₹915
+Available: available
+Image URLs: N/A
+Menu: Simple Veg 3
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Medium Delight Pizza
+Description: 
+Price: ₹630
+Price Range: ₹630 - ₹1515
+Available: available
+Image URLs: N/A
+Menu: Simple Veg 3
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Large Delight Pizza
+Description: 
+Price: ₹885
+Price Range: ₹885 - ₹1895
+Available: available
+Image URLs: N/A
+Menu: Simple Veg 3
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Spicy Paneer Pizza Regular
+Description: 
+Price: ₹380
+Price Range: ₹380 - ₹380
+Available: available
+Image URLs: N/A
+Menu: Simple Veg 3
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-spicy, sf-not-vegan, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Spicy Paneer Pizza Medium
+Description: 
+Price: ₹740
+Price Range: ₹740 - ₹740
+Available: available
+Image URLs: N/A
+Menu: Simple Veg 3
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-spicy, sf-not-vegan, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Spicy Paneer Pizza Large
+Description: 
+Price: ₹1010
+Price Range: ₹1010 - ₹1010
+Available: available
+Image URLs: N/A
+Menu: Simple Veg 3
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-spicy, sf-not-vegan, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Regular Cheese & Mushroom Pizza
+Description: 
+Price: ₹235
+Price Range: ₹235 - ₹805
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/51c/92d64db248d991df9896ed671571851c.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 4
+Category: 
+Rating: 4.21000004 (26 votes)
+Tags: veg, services, sf-not-vegan, kb-11, delivery-enabled, bestseller, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Medium Cheese & Mushroom Pizza
+Description: 
+Price: ₹470
+Price Range: ₹470 - ₹1355
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/51c/92d64db248d991df9896ed671571851c.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 4
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Large Cheese & Mushroom Pizza
+Description: 
+Price: ₹705
+Price Range: ₹705 - ₹1715
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/51c/92d64db248d991df9896ed671571851c.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 4
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Regular Cheese & Tomato Pizza
+Description: 
+Price: ₹235
+Price Range: ₹235 - ₹805
+Available: available
+Image URLs: N/A
+Menu: Simple Veg 4
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Medium Cheese & Tomato Pizza
+Description: 
+Price: ₹470
+Price Range: ₹470 - ₹1355
+Available: available
+Image URLs: N/A
+Menu: Simple Veg 4
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Large Cheese & Tomato Pizza
+Description: 
+Price: ₹705
+Price Range: ₹705 - ₹1715
+Available: available
+Image URLs: N/A
+Menu: Simple Veg 4
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Regular Cheese & Corn Pizza
+Description: 
+Price: ₹235
+Price Range: ₹235 - ₹805
+Available: available
+Image URLs: N/A
+Menu: Simple Veg 4
+Category: 
+Rating: 3.98000002 (19 votes)
+Tags: veg, services, sf-not-vegan, kb-14, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Medium Cheese & Corn Pizza
+Description: 
+Price: ₹470
+Price Range: ₹470 - ₹1355
+Available: available
+Image URLs: N/A
+Menu: Simple Veg 4
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Large Cheese & Corn Pizza
+Description: 
+Price: ₹705
+Price Range: ₹705 - ₹1715
+Available: available
+Image URLs: N/A
+Menu: Simple Veg 4
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Regular Margherita Pizza
+Description: 
+Price: ₹235
+Price Range: ₹235 - ₹805
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/99d/82e6e21464ee7fe51b243f24778f999d.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 4
+Category: 
+Rating: 3.9000001 (222 votes)
+Tags: veg, services, kb-12, delivery-enabled, bestseller
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Medium Margherita Pizza
+Description: 
+Price: ₹470
+Price Range: ₹470 - ₹1355
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/e4f/2a056efd5d75de581559a6bc0df48e4f.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 4
+Category: 
+Rating: 3.72000003 (6 votes)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Large Margherita Pizza
+Description: 
+Price: ₹705
+Price Range: ₹705 - ₹1715
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/2d5/0f2fe5334e2cf788396785919c8c42d5.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Simple Veg 4
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Zingy Parcel
+Description: 
+Price: ₹80
+Price Range: ₹80 - ₹80
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/fc6/1fbac307136e269f8141520e7c022fc6.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Parcel
+Category: 
+Rating: 4.03000021 (35 votes)
+Tags: veg, services, kb-13, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer Parcel
+Description: 
+Price: ₹110
+Price Range: ₹110 - ₹110
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/fc6/1fbac307136e269f8141520e7c022fc6.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Parcel
+Category: 
+Rating: 4.65999985 (18 votes)
+Tags: veg, services, sf-not-vegan, kb-12, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Cheesy Dip
+Description: 
+Price: ₹45
+Price Range: ₹45 - ₹45
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/b76/7270e1c00bf8ea4f8c0c0d24e781cb76.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Dips
+Category: 
+Rating: 3.71000004 (19 votes)
+Tags: veg, services, sf-not-vegan, kb-9, delivery-enabled, dt-sides
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Spicy Dip
+Description: 
+Price: ₹45
+Price Range: ₹45 - ₹45
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/0cd/6843a483a57f0ba2284a77a12fdba0cd.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Dips
+Category: 
+Rating: 4.09000015 (5 votes)
+Tags: veg, services, kb-9, delivery-enabled, dt-sides, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Salad
+Description: 
+Price: ₹255
+Price Range: ₹255 - ₹255
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/283/a3ffa62ea6a2614e364fc2c9dff84283.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Sides
+Category: 
+Rating: None (None)
+Tags: veg, services, reusable-confidence-score-3, kb-8, delivery-enabled, dt-sides
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Calazone
+Description: 
+Price: ₹165
+Price Range: ₹165 - ₹165
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/e15/fd77e8bb5f4523e529d626ef66a1fe15.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Sides
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled, dt-sides
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Garlic Bread
+Description: 
+Price: ₹145
+Price Range: ₹145 - ₹145
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/bd6/f7f3c1e01722feeff025481996223bd6.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Sides
+Category: 
+Rating: 3.69000006 (31 votes)
+Tags: veg, services, kb-14, delivery-enabled, dt-sides
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Stuffed Bread
+Description: 
+Price: ₹225
+Price Range: ₹225 - ₹225
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/fe7/2531afdcff63362d3e221e2fa6786fe7.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Sides
+Category: 
+Rating: 4.19000006 (20 votes)
+Tags: veg, services, kb-13, delivery-enabled, dt-sides, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chocolava Cake
+Description: 
+Price: ₹155
+Price Range: ₹155 - ₹155
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/e80/e198e790c86d31a851a9c009c041be80.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Sides
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Cheesy & Saucy Wrap
+Description: 
+Price: ₹210
+Price Range: ₹210 - ₹210
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/4b2/06f4bfa5fb4f6d80c97d0763d41814b2.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Wraps
+Category: 
+Rating: 4.44000006 (46 votes)
+Tags: veg, services, sf-not-vegan, kb-10, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Spicy Paneer Wrap
+Description: 
+Price: ₹290
+Price Range: ₹290 - ₹290
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/4b2/06f4bfa5fb4f6d80c97d0763d41814b2.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Wraps
+Category: 
+Rating: 4.53999996 (55 votes)
+Tags: veg, services, sf-spicy, sf-not-vegan, kb-12, delivery-enabled, bestseller, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: French Fries
+Description: 
+Price: ₹155
+Price Range: ₹155 - ₹155
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/311/0496c4f4f5be3a444b012b7c91f7d311.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Fries
+Category: 
+Rating: 4.21999979 (32 votes)
+Tags: veg, services, sf-kid-friendly, kb-13, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Masala Fries
+Description: 
+Price: ₹215
+Price Range: ₹215 - ₹215
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/311/0496c4f4f5be3a444b012b7c91f7d311.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Fries
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Peri Peri Fries
+Description: 
+Price: ₹235
+Price Range: ₹235 - ₹235
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/311/0496c4f4f5be3a444b012b7c91f7d311.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Fries
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-spicy, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Grilled Sandwich (2 Pcs)
+Description: 
+Price: ₹180
+Price Range: ₹180 - ₹180
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/8f0/a44ecc41ec52e95276a80a59191138f0.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Sandwich
+Category: 
+Rating: 3.8599999 (7 votes)
+Tags: veg, services, reusable-confidence-score-1, kb-9, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Cheesy Grilled Sandwich
+Description: 
+Price: ₹200
+Price Range: ₹200 - ₹200
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/8f0/a44ecc41ec52e95276a80a59191138f0.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Sandwich
+Category: 
+Rating: 4.42000008 (70 votes)
+Tags: veg, services, sf-not-vegan, reusable-confidence-score-2, kb-10, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer Grilled Sandwich
+Description: 
+Price: ₹200
+Price Range: ₹200 - ₹200
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/8f0/a44ecc41ec52e95276a80a59191138f0.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Sandwich
+Category: 
+Rating: 4.26000023 (59 votes)
+Tags: veg, services, sf-not-vegan, reusable-confidence-score-2, kb-10, delivery-enabled, bestseller, rating_4
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Cheese Toast
+Description: 
+Price: ₹190
+Price Range: ₹190 - ₹190
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/9ac/3c13069e8cd4f4e6274fa8d51eb669ac.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Sandwich
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-not-vegan, kb-11, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Hangries, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Hangries, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Hangries on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/hangries-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+

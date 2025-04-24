@@ -1,0 +1,425 @@
+Dish: Kadhi
+Description: Kadhi is a popular Indian dish with a tangy yogurt-based curry. It is often paired with pakoras (deep-fried fritters) and served over steamed rice. The creamy texture and delightful blend of spices, including turmeric and cumin, make kadhi a comforting and satisfying meal. Its unique flavor profile is a true culinary delight.
+Price: ₹0
+Price Range: ₹119 - ₹229
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/741/9dda356b753977781e2b5384593de741.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Main Course
+Category: 
+Rating: 3.92000008 (7 votes)
+Tags: veg, main-course, services, reusable-confidence-score-3, kb-12, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Bistro Bliss, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Bistro Bliss, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/bistro-bliss-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chole
+Description: Chola is a popular South Indian dish made from black chickpeas simmered in a flavorful blend of spices, onions, tomatoes, and coconut. It is typically served with steamed rice, dosa, or chapati. This hearty and protein-rich dish has a rich and aromatic taste, perfect for a satisfying meal.
+Price: ₹0
+Price Range: ₹119 - ₹229
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/be7/ba1df71fbb28231df441a545dfcc4be7.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Main Course
+Category: 
+Rating: 3.93000007 (17 votes)
+Tags: veg, vegan, main-course, services, kb-10, delivery-enabled, sf-vegan
+Dietary Preferences: veg
+
+Restaurant: Bistro Bliss, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Bistro Bliss, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/bistro-bliss-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Rajma
+Description: Made from red kidney beans cooked in a flavorful tomato-based gravy. It is seasoned with a blend of spices and often served with rice or roti. Rajma is known for its rich and hearty taste, making it a comforting and nutritious meal.
+Price: ₹0
+Price Range: ₹119 - ₹229
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/77e/99d4a8d9d96084c60398d3ca4c4cb77e.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Main Course
+Category: 
+Rating: 2.57999992 (10 votes)
+Tags: veg, vegan, main-course, medium-spicy, services, kb-11, delivery-enabled, sf-vegan, sf-spicy
+Dietary Preferences: veg
+
+Restaurant: Bistro Bliss, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Bistro Bliss, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/bistro-bliss-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Tawa Roti
+Description: Tawa roti is a popular Indian bread made by kneading wheat flour, water and a pinch of salt. It is then rolled into thin dish and cooked on a hot tawa. The result is a delicious slightly crispy roti with a soft and chewy texture, perfect for pairing with curries or enjoying on its own.
+Price: ₹15
+Price Range: ₹15 - ₹15
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/0fb/064880be011536410064045df6db70fb.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Breads
+Category: 
+Rating: 3.83999991 (31 votes)
+Tags: veg, services, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Bistro Bliss, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Bistro Bliss, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/bistro-bliss-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Tawa Butter Roti
+Description: It boasts a golden brown, flaky exterior and a butter melt in your mouth texture. This aromatic delicacy is perfect for savoring with curries or enjoying on its own.
+Price: ₹18
+Price Range: ₹18 - ₹18
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/733/1e72b6c4215947fd753b2974cb62b733.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Breads
+Category: 
+Rating: 3.61999989 (22 votes)
+Tags: veg, services, sf-not-vegan, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Bistro Bliss, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Bistro Bliss, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/bistro-bliss-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Plain Paratha
+Description: Made with the whole wheat flour and provide a perfect crispy taste.
+Price: ₹25
+Price Range: ₹25 - ₹25
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/6b6/9051a332b38c7488edb78adeaf0576b6.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Breads
+Category: 
+Rating: 4.26999998 (16 votes)
+Tags: veg, meal, new, bread, home-style-meal, services, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Bistro Bliss, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Bistro Bliss, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/bistro-bliss-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: 5 Poori
+Description: A soft light meal. Made with whole wheat flour and make your meal more delicious and fried in less oil.
+Price: ₹49
+Price Range: ₹49 - ₹49
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/9f8/498c428213ba4245b13c3d371be1f9f8.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Breads
+Category: 
+Rating: 4.46000004 (21 votes)
+Tags: veg, services, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Bistro Bliss, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Bistro Bliss, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/bistro-bliss-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Aloo Paratha
+Description: Aloo paratha is a popular Indian flatbread stuffed with a flavorful filling of mashed potatoes, aromatic spices and herbs. The dough is rolled out and cooked on a griddle until golden and crispy.
+Price: ₹59
+Price Range: ₹59 - ₹59
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/203/7bb2e03a7eaee3221e001c54c8588203.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Breads
+Category: 
+Rating: 3.91000009 (63 votes)
+Tags: veg, bread, services, kb-15, delivery-enabled, bestseller
+Dietary Preferences: veg
+
+Restaurant: Bistro Bliss, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Bistro Bliss, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/bistro-bliss-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Pyaaz Paratha
+Description: Pyaaz paratha is a delectable Indian flatbread stuffed with a generous filling of finely chopped onion. The dough is skillfully rolled out and cooked until golden brown, imparting a delightful crispness.
+Price: ₹59
+Price Range: ₹59 - ₹59
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/68d/3c18460b2c7cec96a2133248d75ca68d.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Breads
+Category: 
+Rating: 3.8900001 (11 votes)
+Tags: veg, services, delivery-enabled, dt-breakfast
+Dietary Preferences: veg
+
+Restaurant: Bistro Bliss, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Bistro Bliss, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/bistro-bliss-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Gobi Paratha
+Description: Aloo paratha is a popular Indian flatbread stuffed with a flavorful filling of mashed potato, aromatic spices and herbs. The dough is rolled out and cooked on a griddle until golden and crispy.
+Price: ₹69
+Price Range: ₹69 - ₹69
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/437/c3c31c2d9e3f59edfcc0abc5e1869437.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Breads
+Category: 
+Rating: 3.45000005 (8 votes)
+Tags: veg, services, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Bistro Bliss, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Bistro Bliss, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/bistro-bliss-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Mixed Paratha
+Description: The dough is skillfully blended with a medley of spices, vegetables, and herbs, creating a mouthwatering symphony of taste. With its crispy exterior and soft interior, each bite offers a delightful fusion of textures and a burst of enticing flavors.
+Price: ₹79
+Price Range: ₹79 - ₹99
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/b98/e0528422afd51dac44b26408c1bd6b98.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Breads
+Category: 
+Rating: 3.9000001 (20 votes)
+Tags: veg, bread, medium-spicy, services, delivery-enabled, sf-spicy
+Dietary Preferences: veg
+
+Restaurant: Bistro Bliss, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Bistro Bliss, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/bistro-bliss-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Plain Rice
+Description: Soft and blooming rice.
+Price: ₹0
+Price Range: ₹79 - ₹129
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/996/fec80994d946493952b279c13ff02996.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Rice And Biryani
+Category: Rice
+Rating: None (None)
+Tags: veg, rice, mild, services, reusable-confidence-score-3, kb-11, delivery-enabled, sf-spicy
+Dietary Preferences: veg
+
+Restaurant: Bistro Bliss, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Bistro Bliss, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/bistro-bliss-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Jeera Rice
+Description: The rice is cooked to perfection, resulting in separate grains with a subtle aroma and a hint of earthy, warm flavors. It pairs well with various curries and adds a delightful touch to any meal.
+Price: ₹0
+Price Range: ₹89 - ₹139
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/d6b/750dca273c13c0ba162a702dbf5cdd6b.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Rice And Biryani
+Category: Rice
+Rating: 3.43000007 (7 votes)
+Tags: veg, rice, medium-spicy, services, reusable-confidence-score-3, kb-11, delivery-enabled, sf-spicy
+Dietary Preferences: veg
+
+Restaurant: Bistro Bliss, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Bistro Bliss, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/bistro-bliss-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Kadhi Chawal
+Description: The tangy kadhi is made with gram flour, spices and tempered with aromatic tadka. Served over fluffy rice, it offers a delightful combination of flavors, textures and a comforting meal experience.
+Price: ₹199
+Price Range: ₹199 - ₹199
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/8ee/3d23a5dfd7116fb41d1bf80af4f9e8ee.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Meals
+Category: 
+Rating: 3.56999993 (8 votes)
+Tags: veg, services, kb-11, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Bistro Bliss, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Bistro Bliss, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/bistro-bliss-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Rajma Chawal
+Description: Served with steamed basmati rice, it creates a harmonious blend of textures and tastes, resulting in a comforting and satisfying meal.
+Price: ₹199
+Price Range: ₹199 - ₹199
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/b46/5edbe62922200d54f6abd76a1d28cb46.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Meals
+Category: 
+Rating: 3.53999996 (13 votes)
+Tags: veg, services, kb-10, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Bistro Bliss, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Bistro Bliss, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/bistro-bliss-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chole Chawal
+Description: The rice is fluffy and fragrant, while the curry is rich and flavorful infused with a blend of spices like cumin, coriander and turmeric.
+Price: ₹199
+Price Range: ₹199 - ₹199
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/a20/5e2d1e57a622d3ecb76b88426ca85a20.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Meals
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-11, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Bistro Bliss, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Bistro Bliss, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/bistro-bliss-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Tea
+Description: Made with milk, tea leaves and sugar boiled to perfect aromatic colour and give you a perfect refreshing feeling.
+Price: ₹25
+Price Range: ₹25 - ₹25
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/29b/9d1b2dc402387d1f90e472af14cba29b.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Tea
+Category: 
+Rating: 4.11999989 (60 votes)
+Tags: veg, services, sf-not-vegan, kb-15, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Bistro Bliss, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Bistro Bliss, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/bistro-bliss-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+

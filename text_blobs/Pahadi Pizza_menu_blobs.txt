@@ -1,0 +1,675 @@
+Dish: Cheese Margherita Pizza
+Description: Loaded with extra cheese.
+Price: ₹0
+Price Range: ₹219 - ₹638
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/739/57089145e27451b2908755f4269e6739.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: 4.19999981 (49 votes)
+Tags: veg, combo-item, services, sf-kid-friendly, sf-not-vegan, kb-9, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Fresh Veggie Pizza
+Description: Onion and capsicum.
+Price: ₹0
+Price Range: ₹239 - ₹658
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/f8e/1cdc1def1cdeaf323e9f8eae74231f8e.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, combo-item, services, sf-kid-friendly, kb-14, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Farm House Pizza
+Description: Onion, capsicum, tomato and mushroom.
+Price: ₹0
+Price Range: ₹260 - ₹748
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: 4.55000019 (12 votes)
+Tags: veg, combo-item, services, sf-kid-friendly, kb-11, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Mexican Pizza
+Description: Onion, capsicum, tomato and jalapeno.
+Price: ₹0
+Price Range: ₹260 - ₹748
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, combo-item, services, sf-kid-friendly, kb-11, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Peepy Paneer Pizza
+Description: Capsicum, red pepper and paneer.
+Price: ₹0
+Price Range: ₹260 - ₹748
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/15e/4995213b47e7e1f934f3ba94c508815e.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A, https://b.zmtcdn.com/data/dish_photos/2c8/84d490b57037ea38bb0d3251e52762c8.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: 4.19000006 (44 votes)
+Tags: veg, combo-item, services, sf-spicy, sf-not-vegan, kb-12, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paradise Pizza
+Description: Capsicum, red pepper, black olive and golden corn.
+Price: ₹0
+Price Range: ₹260 - ₹748
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/292/fcad276753846bab0249050234310292.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: 4.36999989 (12 votes)
+Tags: veg, combo-item, services, sf-spicy, kb-11, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer Makhani Pizza
+Description: Capsicum, paneer with makhani sauce.
+Price: ₹0
+Price Range: ₹309 - ₹868
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, combo-item, services, sf-kid-friendly, sf-not-vegan, kb-11, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Deluxe Veggie Pizza
+Description: Onion, capsicum, mushroom, golden corn with paneer.
+Price: ₹0
+Price Range: ₹309 - ₹868
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, combo-item, services, sf-kid-friendly, sf-not-vegan, kb-11, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veg Extravaganza Pizza
+Description: Onion, capsicum, tomato, mushroom, black olive jalapeno, golden corn with extra cheese.
+Price: ₹0
+Price Range: ₹309 - ₹868
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/f1b/8a71ed1458d99a407a47b97dad014f1b.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: 3.79999995 (8 votes)
+Tags: veg, combo-item, services, sf-kid-friendly, sf-not-vegan, kb-11, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Kadhai Paneer Pizza
+Description: Onion and capsicum with paneer.
+Price: ₹0
+Price Range: ₹309 - ₹868
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, combo-item, services, sf-kid-friendly, sf-not-vegan, kb-11, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Delicious Pahadi Pizza
+Description: As per customer choice.
+Price: ₹0
+Price Range: ₹323 - ₹922
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, combo-item, services, sf-kid-friendly, kb-11, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Onion Pizza
+Description: 
+Price: ₹100
+Price Range: ₹100 - ₹101
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/fc6/4d514cde6d5c6816e8eb96d766059fc6.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: 4.30000019 (1137 votes)
+Tags: veg, combo-item, services, sf-kid-friendly, kb-10, delivery-enabled, bestseller, rating_4
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Tomato Pizza
+Description: 
+Price: ₹100
+Price Range: ₹100 - ₹101
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/0a8/464ee01b9617a4ce2c4268495c5e90a8.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: 4.36000013 (256 votes)
+Tags: veg, combo-item, services, sf-kid-friendly, kb-12, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Capsicum Pizza
+Description: 
+Price: ₹100
+Price Range: ₹100 - ₹101
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: 4.23999977 (129 votes)
+Tags: veg, combo-item, services, sf-kid-friendly, kb-12, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Onion Capsicum Pizza
+Description: 
+Price: ₹160
+Price Range: ₹160 - ₹161
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, combo-item, services, sf-kid-friendly, kb-11, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Golden Corn Pizza
+Description: 
+Price: ₹120
+Price Range: ₹120 - ₹121
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/e30/867f42f28f3be68cc8f875d0b6566e30.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: 4.19000006 (770 votes)
+Tags: veg, combo-item, services, sf-kid-friendly, kb-10, delivery-enabled, bestseller, rating_4
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Cheese Pizza
+Description: 
+Price: ₹149
+Price Range: ₹149 - ₹150
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/1b8/3623b4f3ecdf534b8a290ef118d5d1b8.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: 4.13999987 (49 votes)
+Tags: veg, combo-item, services, sf-kid-friendly, sf-not-vegan, kb-4, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer Onion Pizza
+Description: 
+Price: ₹160
+Price Range: ₹160 - ₹161
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: 3.79999995 (67 votes)
+Tags: veg, combo-item, services, sf-kid-friendly, sf-not-vegan, kb-10, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veg Loaded Pizza
+Description: 
+Price: ₹200
+Price Range: ₹200 - ₹201
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/bb2/4b3bb931f11f5a4b12d688ff744febb2.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: 3.94000006 (145 votes)
+Tags: veg, combo-item, services, sf-kid-friendly, kb-10, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: White Sauce Pasta
+Description: 
+Price: ₹119
+Price Range: ₹119 - ₹119
+Available: available
+Image URLs: N/A
+Menu: Pasta
+Category: 
+Rating: 3.92000008 (67 votes)
+Tags: veg, combo-item, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Red Sauce Pasta
+Description: 
+Price: ₹99
+Price Range: ₹99 - ₹99
+Available: available
+Image URLs: N/A
+Menu: Pasta
+Category: 
+Rating: 3.49000001 (26 votes)
+Tags: veg, combo-item, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veg Burger
+Description: 
+Price: ₹95
+Price Range: ₹95 - ₹96
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/a1f/f8bc11036e2585b08a7134f8b2731a1f.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Burgers
+Category: 
+Rating: 4.09000015 (86 votes)
+Tags: veg, combo-item, services, kb-11, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Premium Burger
+Description: 
+Price: ₹95
+Price Range: ₹95 - ₹96
+Available: available
+Image URLs: N/A
+Menu: Burgers
+Category: 
+Rating: 4.11999989 (17 votes)
+Tags: veg, combo-item, services, kb-13, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Garlic Bread
+Description: 
+Price: ₹99
+Price Range: ₹99 - ₹99
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/d2a/282a62989b7391132b30477a4921bd2a.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Snacks
+Category: 
+Rating: 3.97000003 (69 votes)
+Tags: veg, combo-item, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Stuffed Garlic Bread
+Description: 
+Price: ₹119
+Price Range: ₹119 - ₹119
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/e91/eb72f40c95ade31e543bae3b849d8e91.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Snacks
+Category: 
+Rating: 3.83999991 (90 votes)
+Tags: veg, combo-item, services, kb-13, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veg Pocket
+Description: Capsicum, onion, red pepper and paneer.
+Price: ₹89
+Price Range: ₹89 - ₹89
+Available: available
+Image URLs: N/A
+Menu: Snacks
+Category: 
+Rating: 4.38000011 (32 votes)
+Tags: veg, combo-item, services, sf-spicy, sf-not-vegan, kb-8, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Choco Lava Cake
+Description: 
+Price: ₹95
+Price Range: ₹95 - ₹95
+Available: available
+Image URLs: N/A
+Menu: Desserts
+Category: 
+Rating: 4.48000002 (61 votes)
+Tags: veg, dessert, combo-item, services, kb-6, delivery-enabled, dt-desserts, rating_4
+Dietary Preferences: veg
+
+Restaurant: Pahadi Pizza, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pahadi Pizza, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pahadi Pizza on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pahadi-pizza-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+

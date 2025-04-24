@@ -1,0 +1,650 @@
+Dish: Masala Corn Roll
+Description: The Masala Corn Roll is a delicious and savory roll that's sure to satisfy your taste buds. This roll features a blend of sweet corn that has been cooked with aromatic spices to create a flavorful filling and it is then topped with mayo. Rolled in laccha paratha and served with mint sauce, tomato ketchup.
+Price: ₹129
+Price Range: ₹129 - ₹129
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/773/c10f069d026394c3e3ece58fc5427773.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Kaathi Rolls
+Category: 
+Rating: 4.30000019 (217 votes)
+Tags: veg, services, kb-10, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Peppery Veggie Roll
+Description: Here to satisfy those big spicy cravings. Our Peppery Veggie Roll includes a variety of vegetables, seasoned with spices, and rolled up in laccha paratha. Now thats wow!
+Price: ₹129
+Price Range: ₹129 - ₹129
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/78c/9453b42a43e8d02d233d202bb711f78c.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Kaathi Rolls
+Category: 
+Rating: 4.57000017 (41 votes)
+Tags: veg, services, sf-spicy, kb-5, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veggie Korma Roll
+Description: A treasure trove of unique Indian flavours. Veggie Korma roll consisting of spiced vegetables cooked in a rich cashew and melon seed gravy. Rolled in laccha paratha and served with the mint sauce and tomato ketchup.
+Price: ₹129
+Price Range: ₹129 - ₹129
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/95d/07d0452878e5420d90f5f8bee282995d.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Kaathi Rolls
+Category: 
+Rating: 4.07999992 (72 votes)
+Tags: veg, services, sf-spicy, kb-6, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veggie Roll
+Description: Disguised as a party sparkle. This Veggie Roll is a medly of fresh vegetables and other ingredients, rolled in laccha paratha served with mint sauce and tomato ketchup.
+Price: ₹109
+Price Range: ₹109 - ₹109
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/7a4/4e447cfa42620e2db9fd7c11264c47a4.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Veg Kaathi Rolls
+Category: 
+Rating: 4.19999981 (426 votes)
+Tags: veg, services, kb-9, delivery-enabled, rating_4, ar
+Dietary Preferences: veg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Double Egg Makhani Roll
+Description: The Makhani Egg Roll is a delectable snack that features two eggs rolled in a laccha paratha and cooked in a rich and creamy makhani gravy. The roll is then topped with a variety of sauces, fresh onions and our secret masala, which adds an extra layer of flavor and texture.
+Price: ₹119
+Price Range: ₹119 - ₹119
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/1a2/d8de2e0b3abb0588908bad702683a1a2.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Egg Kaathi Rolls
+Category: 
+Rating: 4.40999985 (62 votes)
+Tags: egg, services, kb-9, delivery-enabled, rating_4
+Dietary Preferences: egg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Double Egg Malai Roll
+Description: Experience the eggstraordinary flavor of our Egg Malai Roll. Made with two eggs layered in between a flaky Laccha Paratha, this roll is drizzled with creamy mayo and topped with fresh onions, a variety of sauces, and our secret masala. Don't settle for less when you can enjoy this rich and flavorful snack.
+Price: ₹109
+Price Range: ₹109 - ₹109
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/d5b/700b2836ac81433fbe3ffdccd8ac5d5b.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Egg Kaathi Rolls
+Category: 
+Rating: 4.42000008 (432 votes)
+Tags: egg, packaged, non-refundable, services, kb-8, delivery-enabled, rating_4
+Dietary Preferences: egg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Double Egg Mint Roll
+Description: 315 Kcal. 20g Protein. 32g Carbs. 14g Fat. 2g Fiber
+Price: ₹119
+Price Range: ₹119 - ₹119
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/7ba/f63d00f2ef7d34376fbcf5fd102777ba.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Egg Kaathi Rolls
+Category: 
+Rating: 4.46000004 (20 votes)
+Tags: egg, services, kb-7, delivery-enabled, rating_4
+Dietary Preferences: egg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Double Egg Peppery Roll
+Description: A crispy lachha paratha coated and wrapped egg with our special hot dressing with the topping of sauces and onions.312 Kcal. 18g Protein. 30g Carbs. 12g Fat. 2g Fiber
+Price: ₹119
+Price Range: ₹119 - ₹119
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/ffa/4d145da268d80c06fb01063bf142cffa.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Egg Kaathi Rolls
+Category: 
+Rating: 4.63999987 (22 votes)
+Tags: egg, services, kb-7, delivery-enabled, rating_4
+Dietary Preferences: egg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Double Egg Roll
+Description: The perfect snack for those on-the-go, two Egg Layered in between Laccha Paratha, topped with fresh onions, a variety of sauces and our secret masala. With a squeeze of lemon juice, it's a quick and satisfying meal that's perfect for any time of day
+Price: ₹99
+Price Range: ₹99 - ₹99
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/095/0ebfa128e1a31ad10d433635e36d6095.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A, https://b.zmtcdn.com/data/dish_photos/14a/5343d9c259782a5d3dd22d26275f514a.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Egg Kaathi Rolls
+Category: 
+Rating: 4.44999981 (981 votes)
+Tags: egg, services, kb-7, delivery-enabled, bestseller, rating_4, ar
+Dietary Preferences: egg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Double Egg Tandoori Roll
+Description: Who knew eggs could even do this? Rolled in between a laccha paratha cooked in tandoori gravy topped with fresh onions, a variety of sauces and masala and our secret masala which makes it exceptional.
+Price: ₹119
+Price Range: ₹119 - ₹119
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/370/faba618ff21587c260c20d4290357370.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Egg Kaathi Rolls
+Category: 
+Rating: 4.32999992 (105 votes)
+Tags: egg, services, kb-7, delivery-enabled, rating_4
+Dietary Preferences: egg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Triple Egg Roll
+Description: The perfect snack for those on-the-go, three Egg Layered in between Laccha Paratha, topped with fresh onions, a variety of sauces and our secret masala. With a squeeze of lemon juice, it's a quick and satisfying meal that's perfect for any time of day
+Price: ₹119
+Price Range: ₹119 - ₹119
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/917/59d7fc950f158790c8ad7159ef6e0917.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Egg Kaathi Rolls
+Category: 
+Rating: 4.42999983 (116 votes)
+Tags: egg, services, kb-6, delivery-enabled, rating_4
+Dietary Preferences: egg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Achari Chicken Roll
+Description: Caution: not an average snack. The Achari Chicken Roll is a tasty snack that combines the flavors of tangy pickles with succulent pieces of chicken. Rolled  in a flaky laccha paratha and topped with onions, sauces, and our secret masala.
+Price: ₹229
+Price Range: ₹229 - ₹381
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/fd2/d8bed5721b58d92be03fb6c606354fd2.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Non Veg Kaathi Rolls
+Category: 
+Rating: 4.51000023 (33 votes)
+Tags: non-veg, services, kb-5, delivery-enabled, rating_4
+Dietary Preferences: non-veg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Afghani Chicken Roll
+Description: The Afghani Chicken Roll is a delicious snack that features juicy chicken pieces marinated in a flavorful blend of spices and cream, rolled in a flaky laccha paratha, and topped with onions, sauces, and our secret masala. Perfect for those who enjoy bold and tangy flavors.
+Price: ₹229
+Price Range: ₹229 - ₹381
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/266/8eb24847f3cf454c6faddb83aa5e7266.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Non Veg Kaathi Rolls
+Category: 
+Rating: 4.46999979 (122 votes)
+Tags: non-veg, services, kb-7, delivery-enabled, rating_4
+Dietary Preferences: non-veg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Butter Chicken Roll
+Description: Get ready to experience a burst of flavors with our marinated chicken cubes cooked in a rich sauce made from butter, cream, tomato, and Indian spices. Rolled in a flaky laccha paratha, this scrumptious roll is complemented with onions and our special masala blend.
+Price: ₹229
+Price Range: ₹229 - ₹381
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/942/767be5555d06021a12e0ad2ec2d3a942.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A, https://b.zmtcdn.com/data/dish_photos/1f1/f1ec2c4dd407ca1f2e63ebe7e1b521f1.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Non Veg Kaathi Rolls
+Category: 
+Rating: 4.53999996 (134 votes)
+Tags: non-veg, pre-prepared, non-refundable, services, kb-7, delivery-enabled, rating_4, ar
+Dietary Preferences: non-veg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chicken Roll
+Description: Whether you're in a rush or looking for a quick bite, this classic snack is the ultimate combination of taste and convenience. The classic chicken masala roll is a combination of chicken masala filling that is rolled in a laccha paratha.
+Price: ₹199
+Price Range: ₹199 - ₹351
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/a14/a576260215ffeb68c7bed68f78183a14.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A, https://b.zmtcdn.com/data/dish_photos/37a/9150ec6176db0400d315d3c8bf30737a.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Non Veg Kaathi Rolls
+Category: 
+Rating: 4.40999985 (333 votes)
+Tags: non-veg, services, kb-6, delivery-enabled, bestseller, rating_4
+Dietary Preferences: non-veg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chilly Garlic Chicken Roll
+Description: The Chilly Garlic Chicken Roll is a combination of tender chicken pieces cooked in a spicy chilly garlic gravy, rolled in a flaky laccha paratha, and topped with onions, sauces, and our secret masala. Perfect for those who enjoy a spicy kick and garlicky flavors.
+Price: ₹229
+Price Range: ₹229 - ₹381
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/640/5f0013f2838de90b37c16021dd74e640.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Non Veg Kaathi Rolls
+Category: 
+Rating: 3.95000005 (25 votes)
+Tags: non-veg, services, sf-spicy, kb-9, delivery-enabled, ar
+Dietary Preferences: non-veg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Jalapeno Chicken Roll
+Description: Satisfy your cravings with the Cheesy Jalapeno Chicken Roll, featuring  jalapeno sauce, creamy cheese, and juicy chicken cubes in a laccha paratha wrap. Topped with fresh onions, sauces, and our secret masala. A must-try for spice and cheese aficionados!
+Price: ₹229
+Price Range: ₹229 - ₹381
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/dac/1246564f36b50a0ff33e848c39c5adac.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Non Veg Kaathi Rolls
+Category: 
+Rating: 4.57000017 (6 votes)
+Tags: non-veg, services, kb-10, delivery-enabled, rating_4
+Dietary Preferences: non-veg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Kadhai Chicken Roll
+Description: Serves-1 (Medium Spicy 325 Kcal. 20g Protein. 32g Carbs. 13g Fat. 2g Fiber
+Price: ₹229
+Price Range: ₹229 - ₹381
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/578/7bb4bfec58ead11455aba624c63ea578.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Non Veg Kaathi Rolls
+Category: 
+Rating: None (None)
+Tags: non-veg, services, sf-spicy, kb-7, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Korma Chicken Roll
+Description: Treat your taste buds to a delightful burst of unique Indian flavors with our chicken Korma roll. Succulent chicken cubes cooked in a cashew and melon seed gravy, rolled in laccha paratha, topped with sauces, onions, secret masala, and lemon juice.
+Price: ₹229
+Price Range: ₹229 - ₹381
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/6a6/531b5cd6fbf800c72aa96413d66d56a6.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Non Veg Kaathi Rolls
+Category: 
+Rating: 4.51999998 (7 votes)
+Tags: non-veg, services, kb-7, delivery-enabled, rating_4
+Dietary Preferences: non-veg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Makhani Chicken Roll
+Description: Succulent chicken cubes cooked in flavorful makhni gravy, rolled in a laccha paratha, and topped with a blend of sauces, fresh onions, and our secret masala, this snack offers a tantalizing combination of flavors and textures that is sure to please.
+Price: ₹229
+Price Range: ₹229 - ₹381
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/770/3a5d1fdc09d819f5ee57cd726d33d770.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Non Veg Kaathi Rolls
+Category: 
+Rating: 4.44000006 (5 votes)
+Tags: non-veg, services, kb-9, delivery-enabled, rating_4
+Dietary Preferences: non-veg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Malai Chicken Roll
+Description: Get ready to savor the rich and creamy flavor of the Malai chicken roll. This mouth-watering roll features succulent chicken cubes cooked in a creamy gravy that's infused with mild spices for a burst of flavor. Then they are rolled in laccha paratha and topped with various sauces and fresh onions.
+Price: ₹219
+Price Range: ₹219 - ₹371
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/525/4f0ad3c5b8fbeb275c1556818b160525.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Non Veg Kaathi Rolls
+Category: 
+Rating: 4.26000023 (86 votes)
+Tags: non-veg, pre-prepared, non-refundable, services, kb-8, delivery-enabled, rating_4
+Dietary Preferences: non-veg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Mint Chicken Roll
+Description: A fan of juicy chicken and cool mint flavors?? Try?the delightful Mint Chicken Roll. It features tender chicken pieces rolled in flaky laccha paratha and topped with onions, sauces, and our secret masala. Satisfy your cravings with this refreshing and savory snack!Serves-1 (Medium Spicy 325 Kcal. 20g Protein. 32g Carbs. 13g Fat. 2g Fiber
+Price: ₹219
+Price Range: ₹219 - ₹371
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/6e0/847489bf79498091fa6959512c6326e0.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Non Veg Kaathi Rolls
+Category: 
+Rating: None (None)
+Tags: non-veg, services, sf-spicy, kb-9, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Oregano Chicken Roll
+Description: 
+Price: ₹219
+Price Range: ₹219 - ₹371
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/da1/5826ce1435917bec8b21e53bed50bda1.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Non Veg Kaathi Rolls
+Category: 
+Rating: 4.42999983 (5 votes)
+Tags: non-veg, services, kb-8, delivery-enabled, rating_4
+Dietary Preferences: non-veg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Peppery Chicken Roll
+Description: Peppery Chicken Roll, featuring perfectly seasoned chicken cubes. Rolled?in a flaky laccha paratha and topped with onions, sauces, and our secret masala. This roll is perfect for those who enjoy a spicy and flavorful kick into their meals.Serves-1 (Medium Spicy 325 Kcal. 20g Protein. 32g Carbs. 13g Fat. 2g Fiber
+Price: ₹219
+Price Range: ₹219 - ₹371
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/9d3/f033ad5ed9015d976ddf59fec77059d3.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Non Veg Kaathi Rolls
+Category: 
+Rating: 4.78999996 (6 votes)
+Tags: non-veg, services, sf-spicy, kb-9, delivery-enabled, rating_4
+Dietary Preferences: non-veg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Schezwan Chicken Roll
+Description: Our bestseller, the Rock' n Roll award, goes to the Schezwan Chicken Roll. This delectable roll features chicken cubes cooked in Schezwan sauce, rolled in a flaky laccha paratha, and topped with fresh onions, sauces, and our secret masala.
+Price: ₹229
+Price Range: ₹229 - ₹381
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/578/7bb4bfec58ead11455aba624c63ea578.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Non Veg Kaathi Rolls
+Category: 
+Rating: 4 (19 votes)
+Tags: non-veg, services, sf-spicy, kb-11, delivery-enabled, rating_4
+Dietary Preferences: non-veg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Tandoori Chicken Roll
+Description: The Tandoori Chicken Roll is a classic roll that features succulent pieces of marinated tandoori chicken wrapped in a flaky laccha paratha, and topped with onions, sauces, and our secret masala. This delicious and flavorful snack is perfect for satisfying your hunger on-the-go.
+Price: ₹219
+Price Range: ₹219 - ₹371
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/de8/69692e28a0e353d481a4b0e0f6783de8.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Non Veg Kaathi Rolls
+Category: 
+Rating: 4.32999992 (86 votes)
+Tags: non-veg, services, kb-7, delivery-enabled, rating_4
+Dietary Preferences: non-veg
+
+Restaurant: Baap Of Rolls, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Baap Of Rolls, Roorkee Locality, Roorkee and get great offers and super-fast delivery on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/baap-of-rolls-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+

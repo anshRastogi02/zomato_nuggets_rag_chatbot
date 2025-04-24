@@ -1,0 +1,1225 @@
+Dish: Kadai Paneer
+Description: 
+Price: ₹170
+Price Range: ₹170 - ₹170
+Available: available
+Image URLs: N/A
+Menu: Main Course
+Category: Main Course
+Rating: 3.99000001 (29 votes)
+Tags: veg, bestseller-late-night, pair-with-bread, services, sf-not-vegan, kb-7, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer Butter Masala
+Description: 
+Price: ₹170
+Price Range: ₹170 - ₹170
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/3f3/384c839ed11ed23eda199a63f16793f3.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Main Course
+Category: Main Course
+Rating: 4.05000019 (54 votes)
+Tags: veg, pair-with-bread, services, sf-not-vegan, reusable-confidence-score-2, kb-7, delivery-enabled, bestseller, rating_4
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer Kofta
+Description: 
+Price: ₹180
+Price Range: ₹180 - ₹180
+Available: available
+Image URLs: N/A
+Menu: Main Course
+Category: Main Course
+Rating: None (None)
+Tags: veg, bestseller-late-night, pair-with-bread, services, sf-not-vegan, reusable-confidence-score-2, kb-8, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Cheese Tomato
+Description: 
+Price: ₹170
+Price Range: ₹170 - ₹170
+Available: available
+Image URLs: N/A
+Menu: Main Course
+Category: Main Course
+Rating: None (None)
+Tags: veg, bestseller-evening, services, sf-not-vegan, kb-8, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Shahi Paneer
+Description: 
+Price: ₹130
+Price Range: ₹130 - ₹130
+Available: available
+Image URLs: N/A
+Menu: Main Course
+Category: Main Course
+Rating: 4.19999981 (35 votes)
+Tags: veg, pair-with-bread, services, sf-not-vegan, kb-6, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Matar Paneer
+Description: 
+Price: ₹120
+Price Range: ₹120 - ₹120
+Available: available
+Image URLs: N/A
+Menu: Main Course
+Category: Main Course
+Rating: 4.59000015 (7 votes)
+Tags: veg, pair-with-bread, services, sf-not-vegan, kb-7, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Palak Paneer
+Description: 
+Price: ₹120
+Price Range: ₹120 - ₹120
+Available: available
+Image URLs: N/A
+Menu: Main Course
+Category: Main Course
+Rating: 4.96000004 (5 votes)
+Tags: veg, pair-with-bread, services, sf-not-vegan, kb-8, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Mixed Veg
+Description: 
+Price: ₹120
+Price Range: ₹120 - ₹120
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/85c/33fba59a8182901a2e0b5937b601c85c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Main Course
+Category: Main Course
+Rating: 4.36000013 (19 votes)
+Tags: veg, pair-with-bread, services, kb-6, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chana Masala
+Description: 
+Price: ₹120
+Price Range: ₹120 - ₹120
+Available: available
+Image URLs: N/A
+Menu: Main Course
+Category: Main Course
+Rating: None (None)
+Tags: veg, services, reusable-confidence-score-3, kb-8, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Dal Makhani
+Description: 
+Price: ₹120
+Price Range: ₹120 - ₹120
+Available: available
+Image URLs: N/A
+Menu: Main Course
+Category: Main Course
+Rating: 4.34000015 (38 votes)
+Tags: veg, bestseller-lunch, services, reusable-confidence-score-2, kb-8, delivery-enabled, bestseller, rating_4
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Matar Mushroom
+Description: 
+Price: ₹150
+Price Range: ₹150 - ₹150
+Available: available
+Image URLs: N/A
+Menu: Main Course
+Category: Main Course
+Rating: None (None)
+Tags: veg, services, kb-8, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chilli Mushroom
+Description: 
+Price: ₹180
+Price Range: ₹180 - ₹180
+Available: available
+Image URLs: N/A
+Menu: Main Course
+Category: Main Course
+Rating: None (None)
+Tags: veg, services, kb-10, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Dum Aloo
+Description: 
+Price: ₹110
+Price Range: ₹110 - ₹110
+Available: available
+Image URLs: N/A
+Menu: Main Course
+Category: Main Course
+Rating: 3.38000011 (5 votes)
+Tags: veg, home-style-meal, services, kb-8, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Jeera Aloo
+Description: 
+Price: ₹90
+Price Range: ₹90 - ₹90
+Available: available
+Image URLs: N/A
+Menu: Main Course
+Category: Main Course
+Rating: None (None)
+Tags: veg, services, kb-8, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Dal Fry
+Description: 
+Price: ₹90
+Price Range: ₹90 - ₹90
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/fee/71de13418d4af74e20fb49745ea67fee.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Main Course
+Category: Main Course
+Rating: 4.36999989 (17 votes)
+Tags: veg, bestseller-lunch, bestseller-evening, services, kb-7, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: 4 Anda Bhujia
+Description: 
+Price: ₹100
+Price Range: ₹100 - ₹100
+Available: available
+Image URLs: N/A
+Menu: Main Course
+Category: Non Veg Main Course
+Rating: 4.40999985 (8 votes)
+Tags: egg, services, kb-5, delivery-enabled, rating_4
+Dietary Preferences: egg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Anda Curry
+Description: 
+Price: ₹100
+Price Range: ₹100 - ₹100
+Available: available
+Image URLs: N/A
+Menu: Main Course
+Category: Non Veg Main Course
+Rating: 4.38999987 (12 votes)
+Tags: egg, services, kb-10, delivery-enabled, rating_4
+Dietary Preferences: egg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Butter chicken born less
+Description: 
+Price: ₹0
+Price Range: ₹190 - ₹700
+Available: available
+Image URLs: N/A
+Menu: Main Course
+Category: Non Veg Main Course
+Rating: None (None)
+Tags: non-veg, services, reusable-confidence-score-2, kb-11, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Tawa Chicken
+Description: 
+Price: ₹0
+Price Range: ₹140 - ₹600
+Available: available
+Image URLs: N/A
+Menu: Main Course
+Category: Non Veg Main Course
+Rating: 3.75 (18 votes)
+Tags: non-veg, services, reusable-confidence-score-2, kb-8, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Kadai Chicken
+Description: 
+Price: ₹0
+Price Range: ₹160 - ₹680
+Available: available
+Image URLs: N/A
+Menu: Main Course
+Category: Non Veg Main Course
+Rating: 4.07999992 (14 votes)
+Tags: non-veg, services, reusable-confidence-score-2, delivery-enabled, rating_4
+Dietary Preferences: non-veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Butter Chicken
+Description: 
+Price: ₹0
+Price Range: ₹150 - ₹620
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/b43/2b573d847e35663fd2cc4b5fb016fb43.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Main Course
+Category: Non Veg Main Course
+Rating: 4.11000013 (52 votes)
+Tags: non-veg, services, reusable-confidence-score-2, kb-11, delivery-enabled, bestseller, rating_4
+Dietary Preferences: non-veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chicken Masala
+Description: 
+Price: ₹0
+Price Range: ₹150 - ₹620
+Available: available
+Image URLs: N/A
+Menu: Main Course
+Category: Non Veg Main Course
+Rating: 3.88000011 (5 votes)
+Tags: non-veg, pair-with-bread, services, reusable-confidence-score-2, kb-8, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chicken Curry
+Description: 
+Price: ₹0
+Price Range: ₹140 - ₹600
+Available: available
+Image URLs: N/A
+Menu: Main Course
+Category: Non Veg Main Course
+Rating: 3.8599999 (11 votes)
+Tags: non-veg, pair-with-bread, services, reusable-confidence-score-2, kb-5, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Mutton Masala [3 Pieces]
+Description: 
+Price: ₹260
+Price Range: ₹260 - ₹260
+Available: available
+Image URLs: N/A
+Menu: Main Course
+Category: Non Veg Main Course
+Rating: None (None)
+Tags: non-veg, services, reusable-confidence-score-3, kb-8, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Mutton Curry [3 Pieces]
+Description: 
+Price: ₹250
+Price Range: ₹250 - ₹250
+Available: available
+Image URLs: N/A
+Menu: Main Course
+Category: Non Veg Main Course
+Rating: 4.28000021 (19 votes)
+Tags: non-veg, services, reusable-confidence-score-3, kb-7, delivery-enabled, rating_4
+Dietary Preferences: non-veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Tari
+Description: 
+Price: ₹80
+Price Range: ₹80 - ₹80
+Available: available
+Image URLs: N/A
+Menu: Main Course
+Category: Non Veg Main Course
+Rating: None (None)
+Tags: non-veg, services, kb-8, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chicken Pakoda [8 Pieces]
+Description: 
+Price: ₹0
+Price Range: ₹150 - ₹600
+Available: available
+Image URLs: N/A
+Menu: Starters
+Category: Non Veg Starters
+Rating: 4.71999979 (13 votes)
+Tags: non-veg, reco-snacks, services, reusable-confidence-score-3, kb-7, delivery-enabled, rating_4
+Dietary Preferences: non-veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Tandoori Chicken
+Description: 
+Price: ₹0
+Price Range: ₹130 - ₹450
+Available: available
+Image URLs: N/A
+Menu: Starters
+Category: Non Veg Starters
+Rating: 4.09000015 (23 votes)
+Tags: non-veg, services, kb-10, delivery-enabled, bestseller, rating_4
+Dietary Preferences: non-veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chicken Bhujia
+Description: 
+Price: ₹150
+Price Range: ₹150 - ₹150
+Available: available
+Image URLs: N/A
+Menu: Starters
+Category: Non Veg Starters
+Rating: None (None)
+Tags: non-veg, reco-snacks, services, kb-5, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chilli Chicken
+Description: 
+Price: ₹0
+Price Range: ₹160 - ₹680
+Available: available
+Image URLs: N/A
+Menu: Starters
+Category: Non Veg Starters
+Rating: 4.5 (7 votes)
+Tags: non-veg, services, kb-10, delivery-enabled, rating_4
+Dietary Preferences: non-veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer Chilli
+Description: 
+Price: ₹190
+Price Range: ₹190 - ₹190
+Available: available
+Image URLs: N/A
+Menu: Starters
+Category: Veg Starters
+Rating: 3.53999996 (9 votes)
+Tags: veg, reco-snacks, services, sf-not-vegan, kb-10, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer Bhujia
+Description: 
+Price: ₹130
+Price Range: ₹130 - ₹130
+Available: available
+Image URLs: N/A
+Menu: Starters
+Category: Veg Starters
+Rating: None (None)
+Tags: veg, reco-snacks, services, sf-not-vegan, kb-5, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer Paratha
+Description: 
+Price: ₹70
+Price Range: ₹70 - ₹70
+Available: available
+Image URLs: N/A
+Menu: Breads
+Category: 
+Rating: 4.92999983 (7 votes)
+Tags: veg, reco-breads, services, sf-not-vegan, kb-8, delivery-enabled, dt-breakfast, rating_4
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Aloo Paratha
+Description: 
+Price: ₹50
+Price Range: ₹50 - ₹50
+Available: available
+Image URLs: N/A
+Menu: Breads
+Category: 
+Rating: 3.75999999 (13 votes)
+Tags: veg, reco-breads, home-style-meal, services, kb-8, delivery-enabled, dt-breakfast
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Laccha Paratha
+Description: 
+Price: ₹20
+Price Range: ₹20 - ₹20
+Available: available
+Image URLs: N/A
+Menu: Breads
+Category: 
+Rating: 4.13000011 (24 votes)
+Tags: veg, reco-breads, services, kb-8, delivery-enabled, dt-breakfast, rating_4
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Missi Roti
+Description: 
+Price: ₹20
+Price Range: ₹20 - ₹20
+Available: available
+Image URLs: N/A
+Menu: Breads
+Category: 
+Rating: 3.70000005 (25 votes)
+Tags: veg, reco-breads, home-style-meal, services, kb-8, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Butter Naan
+Description: 
+Price: ₹25
+Price Range: ₹25 - ₹25
+Available: available
+Image URLs: N/A
+Menu: Breads
+Category: 
+Rating: 4.42000008 (50 votes)
+Tags: veg, reco-breads, bread, services, sf-not-vegan, kb-8, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Plain Naan
+Description: 
+Price: ₹20
+Price Range: ₹20 - ₹20
+Available: available
+Image URLs: N/A
+Menu: Breads
+Category: 
+Rating: 4.48999977 (15 votes)
+Tags: veg, reco-breads, bread, services, kb-8, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Butter Tandoori Roti
+Description: 
+Price: ₹12
+Price Range: ₹12 - ₹12
+Available: available
+Image URLs: N/A
+Menu: Breads
+Category: 
+Rating: 4.25 (124 votes)
+Tags: veg, reco-breads, bread, services, sf-not-vegan, kb-8, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Tandoori Roti
+Description: 
+Price: ₹10
+Price Range: ₹10 - ₹10
+Available: available
+Image URLs: N/A
+Menu: Breads
+Category: 
+Rating: 4.46000004 (42 votes)
+Tags: veg, reco-breads, bread, services, kb-8, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veg Pulav
+Description: 
+Price: ₹130
+Price Range: ₹130 - ₹130
+Available: available
+Image URLs: N/A
+Menu: Rice Specialties
+Category: 
+Rating: None (None)
+Tags: veg, reco-rice, services, reusable-confidence-score-2, kb-8, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Matar Paneer Pulav
+Description: 
+Price: ₹120
+Price Range: ₹120 - ₹120
+Available: available
+Image URLs: N/A
+Menu: Rice Specialties
+Category: 
+Rating: 4.71000004 (5 votes)
+Tags: veg, reco-rice, services, sf-not-vegan, reusable-confidence-score-2, kb-8, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Jeera Rice
+Description: 
+Price: ₹0
+Price Range: ₹55 - ₹100
+Available: available
+Image URLs: N/A
+Menu: Rice Specialties
+Category: 
+Rating: 4.28000021 (15 votes)
+Tags: veg, services, reusable-confidence-score-2, kb-8, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Plain Rice
+Description: 
+Price: ₹0
+Price Range: ₹50 - ₹90
+Available: available
+Image URLs: N/A
+Menu: Rice Specialties
+Category: 
+Rating: 4.61999989 (14 votes)
+Tags: veg, rice, services, reusable-confidence-score-2, kb-8, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Egg Fried Rice
+Description: 
+Price: ₹120
+Price Range: ₹120 - ₹120
+Available: available
+Image URLs: N/A
+Menu: Fried Rice
+Category: 
+Rating: None (None)
+Tags: egg, services, reusable-confidence-score-3, kb-14, delivery-enabled
+Dietary Preferences: egg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chicken Fried Rice
+Description: 
+Price: ₹150
+Price Range: ₹150 - ₹150
+Available: available
+Image URLs: N/A
+Menu: Fried Rice
+Category: 
+Rating: None (None)
+Tags: non-veg, services, reusable-confidence-score-3, kb-14, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Mutton Fried Rice
+Description: 
+Price: ₹250
+Price Range: ₹250 - ₹250
+Available: available
+Image URLs: N/A
+Menu: Fried Rice
+Category: 
+Rating: None (None)
+Tags: non-veg, services, reusable-confidence-score-3, kb-14, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Raita
+Description: 
+Price: ₹60
+Price Range: ₹60 - ₹60
+Available: available
+Image URLs: N/A
+Menu: Accompaniments
+Category: 
+Rating: 4.38999987 (15 votes)
+Tags: veg, services, kb-6, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Dahi
+Description: 
+Price: ₹30
+Price Range: ₹30 - ₹30
+Available: available
+Image URLs: N/A
+Menu: Accompaniments
+Category: 
+Rating: 3.94000006 (8 votes)
+Tags: veg, services, kb-6, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Uttam Dhaba, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Uttam Dhaba, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Uttam Dhaba on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+

@@ -1,0 +1,775 @@
+Dish: Hot and Spicy Chicken Wings
+Description: Very spicy wings.
+Price: ₹0
+Price Range: ₹295 - ₹625
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/16a/e9124beee9bc1679869c41b96456216a.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Starters
+Category: 
+Rating: 4.05000019 (44 votes)
+Tags: non-veg, spicy, services, sf-spicy, sf-extra-spicy, kb-13, delivery-enabled, bestseller, rating_4
+Dietary Preferences: non-veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Tender Grilled Chicken [4 Pieces]
+Description: Tender grill chicken is juicy.
+Price: ₹225
+Price Range: ₹225 - ₹420
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/7b2/a5321bb8ac676fdccff2799bb79bc7b2.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Starters
+Category: 
+Rating: 3.83999991 (16 votes)
+Tags: non-veg, services, reusable-confidence-score-2, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chicken Tandoori Roast
+Description: Tandoori chicken will have legs as well as chest and it is spicy.
+Price: ₹0
+Price Range: ₹420 - ₹985
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/0f9/e8a45e1a02df543ce4d4db9fe20c30f9.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Starters
+Category: 
+Rating: 4.23000002 (6 votes)
+Tags: non-veg, services, sf-spicy, delivery-enabled, rating_4
+Dietary Preferences: non-veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chicken Garlic Pepper Roast
+Description: 
+Price: ₹0
+Price Range: ₹420 - ₹985
+Available: available
+Image URLs: N/A
+Menu: Starters
+Category: 
+Rating: None (None)
+Tags: non-veg, services, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chicken Keema with Paratha [2 pieces]
+Description: Chicken keema normal spicy with 2 malabar paratha.
+Price: ₹270
+Price Range: ₹270 - ₹465
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/295/74625a62c5af6c8dfe91b25a84d2d295.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Meal
+Category: 
+Rating: 3.79999995 (32 votes)
+Tags: non-veg, services, sf-spicy, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Mughlai Chicken Biryani [350 g]
+Description: This biryani is spicy and the chicken pieces in it will be boneless.
+Price: ₹220
+Price Range: ₹220 - ₹220
+Available: available
+Image URLs: N/A
+Menu: Meal
+Category: 
+Rating: 3.98000002 (18 votes)
+Tags: non-veg, spicy, services, category-biryani, sf-spicy, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Moms Chicken Biryani [350 g]
+Description: Moms biryani is very tasty.
+Price: ₹250
+Price Range: ₹250 - ₹250
+Available: available
+Image URLs: N/A
+Menu: Meal
+Category: 
+Rating: 3.03999996 (9 votes)
+Tags: non-veg, services, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Dhaba Style Butter Chicken
+Description: Hot spicy boneless pieces with gravy.
+Price: ₹230
+Price Range: ₹230 - ₹230
+Available: available
+Image URLs: N/A
+Menu: Meal
+Category: 
+Rating: 3.67000008 (9 votes)
+Tags: non-veg, services, sf-spicy, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: 1 Malabar Paratha
+Description: 
+Price: ₹0
+Price Range: ₹30 - ₹240
+Available: available
+Image URLs: N/A
+Menu: Paratha
+Category: 
+Rating: 4.28000021 (11 votes)
+Tags: veg, services, delivery-enabled, dt-breakfast, rating_4
+Dietary Preferences: veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veg Burger
+Description: 
+Price: ₹120
+Price Range: ₹120 - ₹315
+Available: available
+Image URLs: N/A
+Menu: Burgers
+Category: 
+Rating: 4.13000011 (7 votes)
+Tags: veg, services, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Aloo Tikki Burger
+Description: 
+Price: ₹95
+Price Range: ₹95 - ₹290
+Available: available
+Image URLs: N/A
+Menu: Burgers
+Category: 
+Rating: 4.36000013 (8 votes)
+Tags: veg, services, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Garlic Pepper Grilled Chicken Burger
+Description: 
+Price: ₹215
+Price Range: ₹215 - ₹410
+Available: available
+Image URLs: N/A
+Menu: Burgers
+Category: 
+Rating: None (None)
+Tags: non-veg, services, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Tandoori Grilled Chicken Burger
+Description: 
+Price: ₹215
+Price Range: ₹215 - ₹410
+Available: available
+Image URLs: N/A
+Menu: Burgers
+Category: 
+Rating: None (None)
+Tags: non-veg, services, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chicken and Cheese Burger
+Description: Chicken and cheese burger the chicken in it has melted cheese inside it tasty.
+Price: ₹195
+Price Range: ₹195 - ₹390
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/954/a6967b347f1ff4d8e65dd65f680cc954.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Burgers
+Category: 
+Rating: 4.63999987 (10 votes)
+Tags: non-veg, services, delivery-enabled, rating_4
+Dietary Preferences: non-veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Crispy Chicken Burger
+Description: 
+Price: ₹195
+Price Range: ₹195 - ₹390
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/5df/8635fd31666973fd5ff48f9d8dc2f5df.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Burgers
+Category: 
+Rating: None (None)
+Tags: non-veg, services, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Spicy Chicken Burger
+Description: 
+Price: ₹130
+Price Range: ₹130 - ₹325
+Available: available
+Image URLs: N/A
+Menu: Burgers
+Category: 
+Rating: 4.90999985 (5 votes)
+Tags: non-veg, spicy, services, sf-spicy, delivery-enabled, rating_4
+Dietary Preferences: non-veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chicken Smacker Burger
+Description: 
+Price: ₹90
+Price Range: ₹90 - ₹285
+Available: available
+Image URLs: N/A
+Menu: Burgers
+Category: 
+Rating: 4.07000017 (17 votes)
+Tags: non-veg, services, delivery-enabled, rating_4
+Dietary Preferences: non-veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chicken Sriracha Burger
+Description: 
+Price: ₹130
+Price Range: ₹130 - ₹325
+Available: available
+Image URLs: N/A
+Menu: Burgers
+Category: 
+Rating: None (None)
+Tags: non-veg, services, sf-spicy, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Aloo Tikki [3 Pieces]
+Description: 
+Price: ₹120
+Price Range: ₹120 - ₹315
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/2bb/a8d79285cdc9f1de035df637055cf2bb.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Snacks
+Category: 
+Rating: 4.19999981 (5 votes)
+Tags: veg, services, kb-14, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: French Fries
+Description: 
+Price: ₹115
+Price Range: ₹115 - ₹310
+Available: available
+Image URLs: N/A
+Menu: Snacks
+Category: 
+Rating: 4.82999992 (6 votes)
+Tags: veg, services, kb-12, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veg Nuggets [8 Pieces]
+Description: 
+Price: ₹120
+Price Range: ₹120 - ₹315
+Available: available
+Image URLs: N/A
+Menu: Snacks
+Category: 
+Rating: None (None)
+Tags: veg, services, kb-14, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chicken Nuggets
+Description: These nuggets are masala, slightly spicy.
+Price: ₹0
+Price Range: ₹160 - ₹505
+Available: available
+Image URLs: N/A
+Menu: Snacks
+Category: 
+Rating: 4.61000013 (32 votes)
+Tags: non-veg, mild, services, delivery-enabled, rating_4, sf-spicy
+Dietary Preferences: non-veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chicken and Cheese Nuggets
+Description: These nuggets are masala, slightly spicy and it has cheese in it.
+Price: ₹0
+Price Range: ₹205 - ₹600
+Available: available
+Image URLs: N/A
+Menu: Snacks
+Category: 
+Rating: 4.26999998 (5 votes)
+Tags: non-veg, mild, services, delivery-enabled, rating_4, sf-spicy
+Dietary Preferences: non-veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chicken Sandwich
+Description: 
+Price: ₹160
+Price Range: ₹160 - ₹355
+Available: available
+Image URLs: N/A
+Menu: Snacks
+Category: 
+Rating: None (None)
+Tags: non-veg, services, delivery-enabled, dt-breakfast
+Dietary Preferences: non-veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chicken Lollipop [4 Pieces]
+Description: 
+Price: ₹215
+Price Range: ₹215 - ₹215
+Available: available
+Image URLs: N/A
+Menu: Snacks
+Category: 
+Rating: None (None)
+Tags: non-veg, services, reusable-confidence-score-2, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chicken Lollipop [8 Pieces]
+Description: 
+Price: ₹405
+Price Range: ₹405 - ₹405
+Available: available
+Image URLs: N/A
+Menu: Snacks
+Category: 
+Rating: 3.6099999 (5 votes)
+Tags: non-veg, services, reusable-confidence-score-2, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Garlic Pepper Grilled Chicken Wrap
+Description: Garlic wrap is less spicy.
+Price: ₹225
+Price Range: ₹225 - ₹245
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/fb4/6bcc1504e6e91af5e0cdb7f3b5d31fb4.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Wraps
+Category: 
+Rating: 4.13000011 (9 votes)
+Tags: non-veg, spicy, services, delivery-enabled, rating_4, sf-spicy
+Dietary Preferences: non-veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Chicken Keema Wrap
+Description: 
+Price: ₹225
+Price Range: ₹225 - ₹245
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/da5/f9f63ce7ba65f6340f3a28b283c8cda5.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Wraps
+Category: 
+Rating: None (None)
+Tags: non-veg, services, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Grilled Chicken Tandoori Wrap
+Description: 
+Price: ₹225
+Price Range: ₹225 - ₹245
+Available: available
+Image URLs: N/A
+Menu: Wraps
+Category: 
+Rating: None (None)
+Tags: non-veg, services, delivery-enabled
+Dietary Preferences: non-veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Aloo Tikki Wrap
+Description: Aloo tikki [2 pieces], trotila wrap [1 piece] and salad [Subject to Availability].
+Price: ₹140
+Price Range: ₹140 - ₹140
+Available: available
+Image URLs: N/A
+Menu: Wraps
+Category: 
+Rating: None (None)
+Tags: veg, beverage, services, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Choco Lava Cake
+Description: 
+Price: ₹120
+Price Range: ₹120 - ₹120
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/fcc/c9522fbba4f5462962861a2a9607ffcc.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Dessert
+Category: 
+Rating: 3.33999991 (6 votes)
+Tags: egg, dessert, services, delivery-enabled, dt-desserts
+Dietary Preferences: egg
+
+Restaurant: Venky's Chicken Xperience, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Venky's Chicken Xperience, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Venky's Chicken Xperience on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/venkys-chicken-xperience-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+

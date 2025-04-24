@@ -1,0 +1,625 @@
+Dish: Margherita Pizza
+Description: 
+Price: ₹0
+Price Range: ₹180 - ₹560
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/d81/ccd75be4086372d70e2ec7c81e253d81.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Double Cheese Margherita Pizza
+Description: 
+Price: ₹0
+Price Range: ₹230 - ₹630
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/d81/ccd75be4086372d70e2ec7c81e253d81.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: 3.79999995 (10 votes)
+Tags: veg, services, sf-kid-friendly, sf-not-vegan, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Cheese and Mushroom Pizza
+Description: 
+Price: ₹0
+Price Range: ₹230 - ₹630
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, sf-not-vegan, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Cheese Onion and Capsicum Pizza
+Description: 
+Price: ₹0
+Price Range: ₹230 - ₹630
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/862/1ebf169bd42e82f43ceec31594c4f862.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, sf-not-vegan, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Cheese and Corn Pizza
+Description: 
+Price: ₹0
+Price Range: ₹230 - ₹630
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/223/d4f91a063e0ebc029f7780b8bdd98223.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: 4.09000015 (5 votes)
+Tags: veg, services, sf-kid-friendly, sf-not-vegan, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veg Deluxe Pizza
+Description: Onion, capsicum, corn and paneer.
+Price: ₹0
+Price Range: ₹340 - ₹1008
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/d33/7cffaafb4191c169f22f63b093d7bd33.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, sf-not-vegan, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Black and White Pizza
+Description: Corn, black olive and jalapeno.
+Price: ₹0
+Price Range: ₹340 - ₹1008
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Spicy Paneer Pizza
+Description: Paneer, capsicum, red pepper in spicy sauce.
+Price: ₹0
+Price Range: ₹340 - ₹1008
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/55f/724e6027d3271fc8b5a4e1da39b0655f.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, spicy, services, sf-spicy, sf-not-vegan, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Spicy Garlic Pizza
+Description: Corn and capsicum in chilli garlic sauce.
+Price: ₹0
+Price Range: ₹340 - ₹1008
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, spicy, services, sf-spicy, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Mixed Veg Pizza
+Description: Onion, capsicum, tomato, corn and mushroom.
+Price: ₹0
+Price Range: ₹400 - ₹1022
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/662/863b9e7322fa4de840950ef6c4955662.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veg Supreme Pizza
+Description: Onion, capsicum, corn, paneer and mushroom.
+Price: ₹0
+Price Range: ₹400 - ₹1022
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/197/2f7743f325b0f93f39982c167ebd5197.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, sf-not-vegan, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Farm Fresh Pizza
+Description: Onion, capsicum, corn and mushroom.
+Price: ₹0
+Price Range: ₹270 - ₹830
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/510/1a4a85a7cc9b14d86c80d0b9aa81c510.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: 4.09000015 (24 votes)
+Tags: veg, services, sf-kid-friendly, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Tandoori Paneer Pizza
+Description: Onion, capsicum and paneer in tandoori sauce.
+Price: ₹0
+Price Range: ₹270 - ₹830
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/b8d/03ae41c7885cbd472fc4afa1a5ec0b8d.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: 4.88000011 (7 votes)
+Tags: veg, services, sf-kid-friendly, sf-not-vegan, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Makhani Paneer Pizza
+Description: Onion, capsicum and paneer in makhani sauce.
+Price: ₹0
+Price Range: ₹270 - ₹1000
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/b8d/03ae41c7885cbd472fc4afa1a5ec0b8d.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, sf-not-vegan, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Veg Loaded Pizza
+Description: Yellow and green capsicum, mushroom, onion and tomato.
+Price: ₹0
+Price Range: ₹280 - ₹480
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/09a/82b51489072a5c2b4e4afa175dcc409a.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Mini Soya Pizza
+Description: 
+Price: ₹0
+Price Range: ₹120 - ₹290
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Fresh Onion Pizza
+Description: 
+Price: ₹0
+Price Range: ₹140 - ₹310
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/610/06921680ce90ba2ee064ec31dbc75610.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: 4.53999996 (8 votes)
+Tags: veg, services, sf-kid-friendly, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Tomato Mania Pizza
+Description: 
+Price: ₹0
+Price Range: ₹150 - ₹300
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/bf5/44f4130b0b5a4b6676a5573af2571bf5.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Fresh Capsicum Pizza
+Description: 
+Price: ₹0
+Price Range: ₹150 - ₹320
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/f41/7e52623fa6a32afdf46bcbf942823f41.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Fresh Paneer Pizza
+Description: 
+Price: ₹0
+Price Range: ₹180 - ₹350
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/226/c3f59d6f11a7522890f9c0bdc0971226.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, sf-not-vegan, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Onion and Corn Pizza
+Description: 
+Price: ₹0
+Price Range: ₹160 - ₹330
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/d42/adc553c9be4e1d5841698f3b797d7d42.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: 4.46000004 (11 votes)
+Tags: veg, services, sf-kid-friendly, delivery-enabled, rating_4
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Soya and Corn Pizza
+Description: 
+Price: ₹0
+Price Range: ₹160 - ₹330
+Available: available
+Image URLs: N/A
+Menu: Pizza
+Category: 
+Rating: None (None)
+Tags: veg, services, sf-kid-friendly, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Onion and Capsicum Pizza
+Description: 
+Price: ₹0
+Price Range: ₹160 - ₹330
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/862/1ebf169bd42e82f43ceec31594c4f862.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: 3.78999996 (6 votes)
+Tags: veg, services, sf-kid-friendly, delivery-enabled
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Onion and Paneer Pizza
+Description: 
+Price: ₹0
+Price Range: ₹160 - ₹330
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/6ea/dd92ec84ec2e99374c1f7911656f76ea.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: 4.23000002 (205 votes)
+Tags: veg, services, sf-kid-friendly, sf-not-vegan, delivery-enabled, bestseller, rating_4
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
+Dish: Paneer and Capsicum Pizza
+Description: 
+Price: ₹0
+Price Range: ₹160 - ₹330
+Available: available
+Image URLs: https://b.zmtcdn.com/data/dish_photos/ce8/dc032e0da89597aadaf6b9cac444ece8.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A
+Menu: Pizza
+Category: 
+Rating: 4.32000017 (360 votes)
+Tags: veg, services, sf-kid-friendly, sf-not-vegan, delivery-enabled, bestseller, rating_4
+Dietary Preferences: veg
+
+Restaurant: Pizza Tower Cafe, Roorkee Locality order online - Zomato
+Restaurant Description: Order food online from Pizza Tower Cafe, Roorkee Locality, Roorkee. Get great offers and super fast food delivery when you order food online from Pizza Tower Cafe on Zomato.
+Restaurant Page: https://www.zomato.com/roorkee/pizza-tower-cafe-roorkee-locality/order
+
+Location: Niti Nagar, Civil Lines, Roorkee
+Entity Type: subzone
+Latitude: 29.8542626000, Longitude: 77.8880002000
+User Defined Location: 29.86861, 77.88948
+Place Name: Niti Nagar, Civil Lines, Roorkee
+
+
+================================================================================
+
