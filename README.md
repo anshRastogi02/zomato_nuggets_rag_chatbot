@@ -7,6 +7,7 @@ This project implements a chatbot that utilizes the Gemini model and various API
 ## Demo Video
 [🎥 Watch demo video](/Zomato%20Nuggets%20Assingment%20Ansh%20Rastogi.mp4)
 
+[🎥 Google Drive Link](https://drive.google.com/file/d/1spj3X3SaJ93kGcJYOOPEW1KIH-aUxX_J/view?usp=sharing)
 ## How It Works
 1. **Data Collection**: The project scrapes restaurant and menu data from Zomato using the `process_all_menus.py` script. This script extracts relevant information from JSON files and generates text blobs that summarize the menu items.
 
