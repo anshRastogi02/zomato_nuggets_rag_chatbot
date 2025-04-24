@@ -1,4 +1,4 @@
-# Food Delivery Chatbot Project
+# Zomato Nuggets RAG Chatbot Project
 
 ## Overview
 This project implements a chatbot that utilizes the Gemini model and various APIs to provide information about food items and restaurants. It integrates data scraping from Zomato and processes menu information to generate responses to user queries.
