@@ -1,4 +1,4 @@
-from zomato_scrapper import Scraper
+from scrapping_script import Scraper
 
 if __name__ == "__main__":
 
